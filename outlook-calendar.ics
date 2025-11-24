@@ -315,10 +315,10 @@ PRIORITY:5
 END:VEVENT
 
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E008000000004457FA0E5C17DC01000000000000000010000000B8D50FBD04F07F4681022278D73F9BAB
-DTSTAMP:20251105T144051Z
-CREATED:20250827T161125Z
-LAST-MODIFIED:20251105T144051Z
+UID:040000008200E00074C5B7101A82E00800000000CE07E8276217DC010000000000000000100000008CDEDF8966F93645B5B08CC30F2A41D5
+DTSTAMP:20251105T144052Z
+CREATED:20250827T155219Z
+LAST-MODIFIED:20251105T144052Z
 DTSTART:20251105T140000Z
 DTEND:20251105T220000Z
 SUMMARY:2025 Aircraft Engineering Expo (featuring innovations with AI and ML)
@@ -331,10 +331,10 @@ PRIORITY:5
 END:VEVENT
 
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000CE07E8276217DC010000000000000000100000008CDEDF8966F93645B5B08CC30F2A41D5
-DTSTAMP:20251105T144052Z
-CREATED:20250827T155219Z
-LAST-MODIFIED:20251105T144052Z
+UID:040000008200E00074C5B7101A82E008000000004457FA0E5C17DC01000000000000000010000000B8D50FBD04F07F4681022278D73F9BAB
+DTSTAMP:20251105T144051Z
+CREATED:20250827T161125Z
+LAST-MODIFIED:20251105T144051Z
 DTSTART:20251105T140000Z
 DTEND:20251105T220000Z
 SUMMARY:2025 Aircraft Engineering Expo (featuring innovations with AI and ML)
@@ -981,22 +981,6 @@ PRIORITY:5
 END:VEVENT
 
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E0080000000034028C85E254DC01000000000000000010000000EEEA36A93D88384EACD145FF66E8F0E6
-DTSTAMP:20251115T221323Z
-CREATED:20251113T211439Z
-LAST-MODIFIED:20251115T221323Z
-DTSTART:20251124T190000Z
-DTEND:20251124T200000Z
-SUMMARY:TDR AI/Machine Learning Check-In
-DESCRIPTION:Quarterly(ish) check-in meeting to discuss and present ideas\, demos\, future plans\, and more. \n\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzFjYjQyNDItMTUxNy00Y2NlLThiMTgtNjhjMzk1ZTc3OTNi%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 244 871 138 539 28 \nPasscode: tX3PN2Gv \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,408342575# <tel:+16297773558\,\,408342575#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=408342575>  \nPhone conference ID: 408 342 575# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 114 512 378 4 \nMore info <https://www.webex.com/msteams?confid=1145123784&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_NzFjYjQyNDItMTUxNy00Y2NlLThiMTgtNjhjMzk1ZTc3OTNi@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
-LOCATION:WHQ_D_3580
-ORGANIZER:mailto:Derek Sutphin
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E0080000000001962727E254DC01000000000000000010000000DBD5E4D40E6C4E49825D87263CB0A2E4
 DTSTAMP:20251115T221324Z
 CREATED:20251113T211207Z
@@ -1007,6 +991,22 @@ SUMMARY:D3580 WHQ BLDG D - Derek Sutphin
 DESCRIPTION:Number of People: 1\nStart Date: 11/24/25 1:00 PM CST\nEnd Date: 11/24/25 2:30 PM CST\nRoom: D3580\nFloor: 03\nBuilding: WHQ BLDG D\nRemote Meeting Info: Notes: 
 LOCATION:D3580
 ORGANIZER:mailto:US_TN_Memphis_WHQ_D_3580 (40)
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+PRIORITY:5
+END:VEVENT
+
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000034028C85E254DC01000000000000000010000000EEEA36A93D88384EACD145FF66E8F0E6
+DTSTAMP:20251115T221323Z
+CREATED:20251113T211439Z
+LAST-MODIFIED:20251115T221323Z
+DTSTART:20251124T190000Z
+DTEND:20251124T200000Z
+SUMMARY:TDR AI/Machine Learning Check-In
+DESCRIPTION:Quarterly(ish) check-in meeting to discuss and present ideas\, demos\, future plans\, and more. \n\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzFjYjQyNDItMTUxNy00Y2NlLThiMTgtNjhjMzk1ZTc3OTNi%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 244 871 138 539 28 \nPasscode: tX3PN2Gv \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,408342575# <tel:+16297773558\,\,408342575#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=408342575>  \nPhone conference ID: 408 342 575# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 114 512 378 4 \nMore info <https://www.webex.com/msteams?confid=1145123784&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_NzFjYjQyNDItMTUxNy00Y2NlLThiMTgtNjhjMzk1ZTc3OTNi@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+LOCATION:WHQ_D_3580
+ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 PRIORITY:5
@@ -1181,9 +1181,9 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000248B8C44A84FDA01000000000000000010000000583563DC5A25264F9D655064DEDE5343
-DTSTAMP:20251124T123933Z
+DTSTAMP:20251124T123924Z
 CREATED:20240125T160508Z
-LAST-MODIFIED:20251124T123933Z
+LAST-MODIFIED:20251124T123924Z
 DTSTART:20251201T143000Z
 DTEND:20251201T150000Z
 SUMMARY:Renew DevOps Personal Access Token for TORCH API
