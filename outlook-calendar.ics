@@ -7,21 +7,6 @@ X-WR-CALNAME:Outlook Calendar
 X-WR-TIMEZONE:America/Chicago
 
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E008000000009175BA3B1345DC0100000000000000001000000015AF5360D5DD344C9B7F5E9F14E11007
-DTSTAMP:20251030T124530Z
-CREATED:20251024T132302Z
-LAST-MODIFIED:20251030T124530Z
-DTSTART:20251030T130000Z
-DTEND:20251030T140000Z
-SUMMARY:Latest Flag Discussions
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzkzNTk1NDItM2FkYS00ZWE2LTk4OGUtNGI3NzcxYzAxMWU4%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 241 434 637 862 0 \nPasscode: 8CQ3iS2P \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,776055169# <tel:+16297773558\,\,776055169#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=776055169>  \nPhone conference ID: 776 055 169# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 111 713 008 8 \nMore info <https://www.webex.com/msteams?confid=1117130088&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_NzkzNTk1NDItM2FkYS00ZWE2LTk4OGUtNGI3NzcxYzAxMWU4@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
-LOCATION:Microsoft Teams Meeting
-ORGANIZER:mailto:Derek Sutphin
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E0080000000002978C0E90BEDB01000000000000000010000000D140A1E8FDC80A4DAD961A2A04BC4819
 DTSTAMP:20251122T201157Z
 CREATED:20250506T090626Z
