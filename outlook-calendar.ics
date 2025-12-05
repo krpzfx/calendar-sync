@@ -7,79 +7,6 @@ X-WR-CALNAME:Outlook Calendar
 X-WR-TIMEZONE:America/Chicago
 
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000CE07E8276217DC010000000000000000100000008CDEDF8966F93645B5B08CC30F2A41D5
-DTSTAMP:20251105T084051Z
-CREATED:20250827T095219Z
-LAST-MODIFIED:20251105T084051Z
-DTSTART:20251105T080000Z
-DTEND:20251105T160000Z
-SUMMARY:2025 Aircraft Engineering Expo (featuring innovations with AI and ML)
-DESCRIPTION:Please join us for the Aircraft Engineering Expo.  \n\n \n\nThis venue will feature diverse projects across the engineering organization with special focus on the application of Artificial Intelligence and Machine Learning.  Swing by WHQ Building G any time between 8:00 AM and 4:00 PM to visit our booths.  \n\n \n\nThere will also be an opportunity to learn a bit more about FedEx GEN/AI “Sidekick”.\n\n \n
-LOCATION:WHQ Bldg G Auditorium and Foyer
-ORGANIZER:mailto:Leo Warmuth
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E008000000004457FA0E5C17DC01000000000000000010000000B8D50FBD04F07F4681022278D73F9BAB
-DTSTAMP:20251105T084050Z
-CREATED:20250827T101124Z
-LAST-MODIFIED:20251105T084050Z
-DTSTART:20251105T080000Z
-DTEND:20251105T160000Z
-SUMMARY:2025 Aircraft Engineering Expo (featuring innovations with AI and ML)
-DESCRIPTION:Please join us for the Aircraft Engineering Expo.  \n\n \n\nThis venue will feature diverse projects across the engineering organization with special focus on the application of Artificial Intelligence and Machine Learning.  Swing by WHQ Building G any time between 8:00 AM and 4:00 PM to visit our booths.  \n\n \n\nThere will also be an opportunity to learn a bit more about FedEx GEN/AI “Sidekick”.\n\n \n
-LOCATION:WHQ Bldg G Auditorium and Foyer
-ORGANIZER:mailto:Leo Warmuth
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000B47A081FD771DA01000000000000000010000000F345903FF6D954408F2921553A62D25B
-DTSTAMP:20251105T082149Z
-CREATED:20240308T220611Z
-LAST-MODIFIED:20251105T082149Z
-DTSTART:20251105T080000Z
-DTEND:20251105T083000Z
-SUMMARY:Update LDAP and SAS SFTP Passwords
-DESCRIPTION:Update LDAP password in IMAGE\nIn Azure ADF\, go to Linked Services > SAS SFTP and update the password there
-ORGANIZER:mailto:Derek Sutphin
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E008000000008C6F4F62AA8FDB010000000000000000100000001F269D54AF70A948A5DE9F1E12AEA94C
-DTSTAMP:20251104T215755Z
-CREATED:20251104T215755Z
-LAST-MODIFIED:20251104T215755Z
-DTSTART:20251105T090000Z
-DTEND:20251105T100000Z
-SUMMARY:Enterprise FinOps: Azure Office hours (optional)
-DESCRIPTION:You are cordially invited to the Enterprise FinOps weekly office hours.  With cost optimization recommendations coming out monthly\, we\, the FinOps team would like to provide you a designated time slot where we are readily available to answer any questions or concerns that may emerge as you consider implementing the cost savings recommendations. We also here to assist on cost visibility- any questions around Azure spend or any Cloudability (FinOps tool) that you may have. Please join us if you have any questions!\n\nDuring this time\, Caitie\, Navi and Sean can answer questions related to:\n\n*	Cost optimization recommendations (monthly emailed spreadsheets\, Powerbi dashboards)\n*	Current and future demand\n*	Cost Usage details\n*	FinOps tooling (Cloudabililty\, Densify)\n\nIf  you need a separate call or have questions please reach out to Caitie.adams@fedex.com <mailto:Caitie.adams@fedex.com> . \n\n ________________________________________________________________________________\n\nMicrosoft Teams Need help? <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Den-US&data=05%7C02%7Cderek.sutphin%40fedex.com%7Cd03ff89291274faba17f08dd97a82e68%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638833470784027242%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=SRlZg7rn1XAumI9xb3MWvOcxO2u%2BnsSLTypu8Hldo%2Fw%3D&reserved=0>  \n\nJoin the meeting now <https://nam11.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_ZGZlOTYwYWQtNzEyYi00YmU4LTk0NzktNjczOTkwZTFmYmM4%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522b945c813-dce6-41f8-8457-5a12c2fe15bf%2522%252c%2522Oid%2522%253a%2522faa5f22f-71a6-4482-86ad-bfd658d127f4%2522%257d&data=05%7C02%7Cderek.sutphin%40fedex.com%7Cd03ff89291274faba17f08dd97a82e68%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638833470784062493%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=H0A1HBQaFezIzROMVGue8y%2BdaLBYYJm7iuyc54BOJsw%3D&reserved=0>  \n\nMeeting ID: 277 725 533 814 \n\nPasscode: FB2aQ2nN \n\n________________________________\n\nDial in by phone \n\n+1 629-777-3558\,\,827879619# <tel:+16297773558\,\,827879619>  United States\, Nashville \n\nFind a local number <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2F8b71d122-cda0-49d9-9e18-e44d877a63f2%3Fid%3D827879619&data=05%7C02%7Cderek.sutphin%40fedex.com%7Cd03ff89291274faba17f08dd97a82e68%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638833470784079936%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=I48v6a4YOttxJE2JvAUWlG6Yp3xHcf1f0dQLaE63%2B2o%3D&reserved=0>  \n\nPhone conference ID: 827 879 619# \n\nJoin on a video conferencing device \n\nTenant key: gofedex@m.webex.com <mailto:gofedex@m.webex.com>  \n\nVideo ID: 112 940 195 7 \n\nMore info <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.webex.com%2Fmsteams%3Fconfid%3D1129401957%26tenantkey%3Dgofedex%26domain%3Dm.webex.com&data=05%7C02%7Cderek.sutphin%40fedex.com%7Cd03ff89291274faba17f08dd97a82e68%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638833470784095631%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=FxDw5XL1%2FiLkA%2B%2Faf61rA78HEwE%2BsCAV0N8F%2BneKnGQ%3D&reserved=0>  \n\nFor organizers: Meeting options <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3ForganizerId%3Dfaa5f22f-71a6-4482-86ad-bfd658d127f4%26tenantId%3Db945c813-dce6-41f8-8457-5a12c2fe15bf%26threadId%3D19_meeting_ZGZlOTYwYWQtNzEyYi00YmU4LTk0NzktNjczOTkwZTFmYmM4%40thread.v2%26messageId%3D0%26language%3Den-US&data=05%7C02%7Cderek.sutphin%40fedex.com%7Cd03ff89291274faba17f08dd97a82e68%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638833470784117096%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RrhTRJlMDXq8RoW8INRPpleZgEc%2B5dCrIs0%2B3JyzTMs%3D&reserved=0>  | Reset dial-in PIN <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2Fusp%2Fpstnconferencing&data=05%7C02%7Cderek.sutphin%40fedex.com%7Cd03ff89291274faba17f08dd97a82e68%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638833470784137561%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=B67KEQZ%2FmWWSgZTDEZviOsQ7jRbyd9iwENW6iBwNIys%3D&reserved=0>  \n\n________________________________________________________________________________\n
-LOCATION:Microsoft Teams Meeting
-ORGANIZER:mailto:Caitie Adams
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E0080000000000000000000000000000000000000000430000007643616C2D55696401000000376433616E3675336C6E676175383468727639723333696A66325F5232303233303830325431353030303040676F6F676C652E636F6D00
-DTSTAMP:20251204T063558Z
-CREATED:20230802T115200Z
-LAST-MODIFIED:20251204T063558Z
-DTSTART:20251105T100000Z
-DTEND:20251105T110000Z
-SUMMARY:Databricks <> FedEx Bi-weekly Enablement
-DESCRIPTION:Caution! This email originated outside of FedEx. Please do not open attachments or click links from an unknown or suspicious origin.	\n\nDatabricks <> FedEx Bi-weekly Enablement\n--------------------------------------------------------Hi Team!I hope that this finds you well. We wanted to set up a separate cadence for enablement sessions than the weekly office hours.Please see \n  \nThis event has been updated	\n  \nJoin Zoom Meeting <https://urldefense.com/v3/__https://databricks.zoom.us/j/89162680246__\;!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03kTl9Ku7A$> \ndatabricks.zoom.us/j/89162680246 <https://urldefense.com/v3/__https://databricks.zoom.us/j/89162680246__\;!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03kTl9Ku7A$>  \nID: 89162680246\n\n\nJoin by phone\n\n(US) +1 877-853-5247 <tel:+18778535247\,\,89162680246#>  \n(GB) +44 800 358 2817 <tel:+448003582817\,\,89162680246#>  \n\nJoining instructions <https://urldefense.com/v3/__https://www.google.com/url?q=https:**Aapplications.zoom.us*addon*invitation*detail*meetingUuid*3DpDfPwxPRTcKPzlkjFbYR8g*253D*253D*26signature*3Dff22c73b40f8a3d410e338f6b15eea5e2900d9a69532c223e7dbe7db7663f5e0*26v*3D1&sa=D&source=calendar&usg=AOvVaw0c009PMKcRMI9rCBtJQY5p__\;Ly8vLy8_JSUlJSUlJQ!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03nq9d-UJg$> \n\n\nJoining notes\n\nMeeting host: william.block@databricks.com <mailto:william.block@databricks.com> \n\nJoin Zoom Meeting: \nhttps://databricks.zoom.us/j/89162680246 <https://urldefense.com/v3/__https://www.google.com/url?q=https*3A*2F*2Fdatabricks.zoom.us*2Fj*2F89162680246&sa=D&ust=1691427000000000&usg=AOvVaw31VgHDXTxtICthjW_86n1W__\;JSUlJSU!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03mqOwwY1w$> \n--------------------------------------------------------\n\n\nHi Team!\n\nI hope that this finds you well. We wanted to set up a separate cadence for enablement sessions than the weekly office hours.\n\nPlease see here <https://urldefense.com/v3/__https://docs.google.com/spreadsheets/d/1LXKtEapvk0-_58Vya2PedeRC90LsCcVgX11qec8AcKU/edit*gid=1008639438__\;Iw!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03kc_BSZZg$>  for a proposed list of enablement sessions that we are planning on running.\n\nPlease fill this out if you have a request for a specific enablement session <https://urldefense.com/v3/__https://www.google.com/url?q=https*3A*2F*2Fforms.office.com*2Fr*2FFcJUtAysqu&sa=D&ust=1691427000000000&usg=AOvVaw3CKe2LdA7dFqnjPD9Xi62b__\;JSUlJSU!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03n86kex8Q$> .\n\nLet us know if you have any questions!\n\nThanks\,\n\nWill\n\nWhen\n\nEvery 2 weeks from 11am to 12pm on Wednesday (Eastern Time - New York)\n\nGuests\n\nmitch.desmond@databricks.com <mailto:mitch.desmond@databricks.com> \n- organizer\nwilliam.block@databricks.com <mailto:william.block@databricks.com> \n- creator\nabaker@fedex.com <mailto:abaker@fedex.com> \nadam.blair@fedex.com <mailto:adam.blair@fedex.com> \nagharrison@fedex.com <mailto:agharrison@fedex.com> \nakshay.thakare@fedex.com <mailto:akshay.thakare@fedex.com> \nAllen Winfree <mailto:alwinfree@fedex.com> \nankit.sikka@fedex.com <mailto:ankit.sikka@fedex.com> \nAnuja Nagare <mailto:anuja.nagare@fedex.com> \narlene.grahek@fedex.com <mailto:arlene.grahek@fedex.com> \nbaojian.guo@fedex.com <mailto:baojian.guo@fedex.com> \nBen Baker <mailto:ben.baker@databricks.com> \nBen Hayes <mailto:ben.hayes@databricks.com> \nbrad.semrad@fedex.com <mailto:brad.semrad@fedex.com> \nBrian Hoogstra <mailto:brian.hoogstra@fedex.com> \nchinnatat.methapatara@fedex.com <mailto:chinnatat.methapatara@fedex.com> \nchris.bochman@fedex.com <mailto:chris.bochman@fedex.com> \nclif.williamson@fedex.com <mailto:clif.williamson@fedex.com> \ncoleman.anderson@fedex.com <mailto:coleman.anderson@fedex.com> \nDale Michalk <mailto:dalem@databricks.com> \nDavid Ason <mailto:david.ason@fedex.com> \neric.clapsaddle@fedex.com <mailto:eric.clapsaddle@fedex.com> \nfarnaz.khaghani@fedex.com <mailto:farnaz.khaghani@fedex.com> \nHalirou Osse <mailto:halirou.osse@fedex.com> \njason.han@fedex.com <mailto:jason.han@fedex.com> \njason.welch@fedex.com <mailto:jason.welch@fedex.com> \njay.varner@fedex.com <mailto:jay.varner@fedex.com> \njc.martin@fedex.com <mailto:jc.martin@fedex.com> \njohnathan.whitt@fedex.com <mailto:johnathan.whitt@fedex.com> \njoshuaanderson@fedex.com <mailto:joshuaanderson@fedex.com> \nJudy Scott <mailto:judith.scott@fedex.com> \njustin.pavis@fedex.com <mailto:justin.pavis@fedex.com> \nkaladhar.gaddam@fedex.com <mailto:kaladhar.gaddam@fedex.com> \nkeith.kroeger@fedex.com <mailto:keith.kroeger@fedex.com> \nkjmcclarty@fedex.com <mailto:kjmcclarty@fedex.com> \nkun.tao@fedex.com <mailto:kun.tao@fedex.com> \nKyle Hale <mailto:kyle.hale@databricks.com> \nleifeng@fedex.com <mailto:leifeng@fedex.com> \nlisa.perez@fedex.com <mailto:lisa.perez@fedex.com> \nljwillis@fedex.com <mailto:ljwillis@fedex.com> \nlucille.bridges@fedex.com <mailto:lucille.bridges@fedex.com> \nmahzabin.akhter@fedex.com <mailto:mahzabin.akhter@fedex.com> \nmanesseh.daniel@fedex.com <mailto:manesseh.daniel@fedex.com> \nmgcooper@fedex.com <mailto:mgcooper@fedex.com> \nmitch.plummer@fedex.com <mailto:mitch.plummer@fedex.com> \nmlawson@fedex.com <mailto:mlawson@fedex.com> \nParvathi Reddi <mailto:parvathi.reddi@databricks.com> \npaul.papaiah@fedex.com <mailto:paul.papaiah@fedex.com> \npetrick.adams@fedex.com <mailto:petrick.adams@fedex.com> \nrachit.choksi@fedex.com <mailto:rachit.choksi@fedex.com> \nradha.krishnan@fedex.com <mailto:radha.krishnan@fedex.com> \nRajesh Yerram <mailto:rajesh.yerram@fedex.com> \nRyan Coffman <mailto:ryan.coffman@databricks.com> \nsam.shojaei@fedex.com <mailto:sam.shojaei@fedex.com> \nSara Lam <mailto:sara.lam@fedex.com> \nSourav Mohanty <mailto:sourav.mohanty@fedex.com> \nSrikant Chari <mailto:srikant.chari@fedex.com> \nSree Ram <mailto:srram@microsoft.com> \nsudheer.gangadharan@fedex.com <mailto:sudheer.gangadharan@fedex.com> \ntharun.bejawada@fedex.com <mailto:tharun.bejawada@fedex.com> \nTimothy Garritty <mailto:timothy.garritty@databricks.com> \ntommy.moran@fedex.com <mailto:tommy.moran@fedex.com> \nubhetwal@shoprunner.com <mailto:ubhetwal@shoprunner.com> \nvbattaglia@fedex.com <mailto:vbattaglia@fedex.com> \nvbersez@fedex.com <mailto:vbersez@fedex.com> \nvidya.srinivas@fedex.com <mailto:vidya.srinivas@fedex.com> \nvivek.varadarajan@fedex.com <mailto:vivek.varadarajan@fedex.com> \nvlakshmanan@fedex.com <mailto:vlakshmanan@fedex.com> \nvromeo@fedex.com <mailto:vromeo@fedex.com> \nysfong@fedex.com <mailto:ysfong@fedex.com> \nyun.fu@fedex.com <mailto:yun.fu@fedex.com> \nandres.urrutia@databricks.com <mailto:andres.urrutia@databricks.com> \nnaveen.kaswa@fedex.com <mailto:naveen.kaswa@fedex.com> \nrsprovence@fedex.com <mailto:rsprovence@fedex.com> \nDavid Bernard <mailto:dbernard@fedex.com> \nPaul Ray <mailto:paul.k.ray@fedex.com> \nShantanu Hirlekar <mailto:shantanu.hirlekar@fedex.com> \nferas.seder@databricks.com <mailto:feras.seder@databricks.com> \nEvan Kang <mailto:evan.kang@fedex.com> \njustin.p.williams@fedex.com <mailto:justin.p.williams@fedex.com> \nshravan.gunti@fedex.com <mailto:shravan.gunti@fedex.com> \nrohith.mendu@fedex.com <mailto:rohith.mendu@fedex.com> \nthirupathi.nizampatnam.osv@fedex.com <mailto:thirupathi.nizampatnam.osv@fedex.com> \nharshavardhan.vempati@fedex.com <mailto:harshavardhan.vempati@fedex.com> \nRay Xue <mailto:zhuqing.xue@fedex.com> \nmgarnowski@fedex.com <mailto:mgarnowski@fedex.com> \nFrancis Mirigliano <mailto:francis_mirigliano@epam.com> \nmanoj.kandukuri@fedex.com <mailto:manoj.kandukuri@fedex.com> \nnarayana.ganta.osv@fedex.com <mailto:narayana.ganta.osv@fedex.com> \nMd Khurram Monir Rabby <mailto:md.rabby@fedex.com> \nmanik.goomer@fedex.com <mailto:manik.goomer@fedex.com> \nNarayana Ganta <mailto:narayana_ganta@epam.com> \npooja.shanmugam@fedex.com <mailto:pooja.shanmugam@fedex.com> \npriyanka.patil@fedex.com <mailto:priyanka.patil@fedex.com> \nantony.scaldaferri@fedex.com <mailto:antony.scaldaferri@fedex.com> \nbipin.sharma@fedex.com <mailto:bipin.sharma@fedex.com> \naakash.tailor@fedex.com <mailto:aakash.tailor@fedex.com> \nBalaji Ramanathan <mailto:balaji.ramanathan@fedex.com> \ncarolina.melul@fedex.com <mailto:carolina.melul@fedex.com> \nchad.barton@fedex.com <mailto:chad.barton@fedex.com> \nChandra Parchuri <mailto:chandra.parchuri@microsoft.com> \ndennis@fedex.com <mailto:dennis@fedex.com> \ndhuang@fedex.com <mailto:dhuang@fedex.com> \nEnes Hayik <mailto:enes.hayik@fedex.com> \nfalguni.chudasama@fedex.com <mailto:falguni.chudasama@fedex.com> \nFarhan Ahmed <mailto:farhan.ahmed@fedex.com> \nforrest.treadway@fedex.com <mailto:forrest.treadway@fedex.com> \nfredrick.macklin@fedex.com <mailto:fredrick.macklin@fedex.com> \ngabriel.piekarek@fedex.com <mailto:gabriel.piekarek@fedex.com> \ngabrielle.rivera@fedex.com <mailto:gabrielle.rivera@fedex.com> \nganesan.ramaswamy@fedex.com <mailto:ganesan.ramaswamy@fedex.com> \ngeorge.richardson@fedex.com <mailto:george.richardson@fedex.com> \ngopal.karumathil@fedex.com <mailto:gopal.karumathil@fedex.com> \njack.homareau@fedex.com <mailto:jack.homareau@fedex.com> \njenny.varghese@fedex.com <mailto:jenny.varghese@fedex.com> \njeremy.lerner@fedex.com <mailto:jeremy.lerner@fedex.com> \njeremy.stewart@fedex.com <mailto:jeremy.stewart@fedex.com> \njoe.pascal@fedex.com <mailto:joe.pascal@fedex.com> \njoe.seidl@fedex.com <mailto:joe.seidl@fedex.com> \nkatherine.werner@fedex.com <mailto:katherine.werner@fedex.com> \nke.mao@fedex.com <mailto:ke.mao@fedex.com> \nkeerthichandra.nagareddy@fedex.com <mailto:keerthichandra.nagareddy@fedex.com> \nkeith.mcwhite@fedex.com <mailto:keith.mcwhite@fedex.com> \nkiran.parupudi@fedex.com <mailto:kiran.parupudi@fedex.com> \nleslie.koon@fedex.com <mailto:leslie.koon@fedex.com> \nmac.mckee@fedex.com <mailto:mac.mckee@fedex.com> \nmadhav.chavan.osv@fedex.com <mailto:madhav.chavan.osv@fedex.com> \nMartijn Reijnaars <mailto:martijn.reijnaars@fedex.com> \nmikhan@fedex.com <mailto:mikhan@fedex.com> \nmmohr@fedex.com <mailto:mmohr@fedex.com> \nnaveen.mamidipalli@fedex.com <mailto:naveen.mamidipalli@fedex.com> \nnfussell@fedex.com <mailto:nfussell@fedex.com> \nniharika.ankam.osv@fedex.com <mailto:niharika.ankam.osv@fedex.com> \npankaj.vispute@fedex.com <mailto:pankaj.vispute@fedex.com> \nparamjeet.sohal@fedex.com <mailto:paramjeet.sohal@fedex.com> \npreethi.gowda@fedex.com <mailto:preethi.gowda@fedex.com> \nrachna.jain@fedex.com <mailto:rachna.jain@fedex.com> \nroya.ghorashi@fedex.com <mailto:roya.ghorashi@fedex.com> \nsalesu-werner@corp.ds.fedex.com <mailto:salesu-werner@corp.ds.fedex.com> \nsean.livelsberger@fedex.com <mailto:sean.livelsberger@fedex.com> \nsindhu.datla@fedex.com <mailto:sindhu.datla@fedex.com> \nSri Jampani <mailto:sridevi.jampani@fedex.com> \nsrikanth.kumar.osv@fedex.com <mailto:srikanth.kumar.osv@fedex.com> \nstephen.lee@fedex.com <mailto:stephen.lee@fedex.com> \ntaylor.larson@fedex.com <mailto:taylor.larson@fedex.com> \nvenkateshwer.katikaneni@fedex.com <mailto:venkateshwer.katikaneni@fedex.com> \nVikram Mahawal <mailto:vmahawal@fedex.com> \nWarner Anthamatten <mailto:wanthamatten@fedex.com> \nWill Fruitt <mailto:willfruitt@microsoft.com> \nwilliam.gorman@fedex.com <mailto:william.gorman@fedex.com> \nXiaolin Zhao <mailto:xiaolin.zhao@fedex.com> \nyuan.lu@fedex.com <mailto:yuan.lu@fedex.com> \nyun.xiao@fedex.com <mailto:yun.xiao@fedex.com> \nPriyanka Purkayastha <mailto:priyanka.purkayastha@fedex.com> \nshaji.thomas@fedex.com <mailto:shaji.thomas@fedex.com> \nsamayo@fedex.com <mailto:samayo@fedex.com> \ndmanikonda@fedex.com <mailto:dmanikonda@fedex.com> \ndinesh.bollimuntha@fedex.com <mailto:dinesh.bollimuntha@fedex.com> \njanetwilson@fedex.com <mailto:janetwilson@fedex.com> \ncharles.hawk@fedex.com <mailto:charles.hawk@fedex.com> \ntingting.zhu@fedex.com <mailto:tingting.zhu@fedex.com> \nmselliott@fedex.com <mailto:mselliott@fedex.com> \nlingfeng.li@fedex.com <mailto:lingfeng.li@fedex.com> \nvolkan.gumuskaya@fedex.com <mailto:volkan.gumuskaya@fedex.com> \nilja.rausch@fedex.com <mailto:ilja.rausch@fedex.com> \ndavidtaylor2@fedex.com <mailto:davidtaylor2@fedex.com> \naaron.workman@fedex.com <mailto:aaron.workman@fedex.com> \njoe.pellicciotti@fedex.com <mailto:joe.pellicciotti@fedex.com> \nderek.sutphin@fedex.com <mailto:derek.sutphin@fedex.com> \nRaj Krishna K. K. <mailto:rajkkk@fedex.com> \nHazem Radi <mailto:hazem.radi@fedex.com> \nnkhan@fedex.com <mailto:nkhan@fedex.com> \nyoonsik.yu@fedex.com <mailto:yoonsik.yu@fedex.com> \nMireia Ferrer Sancho <mailto:mireia.ferrer@fedex.com> \nAmy Hart <mailto:amy.hart@fedex.com> \nRandall Orndorff <mailto:randall.orndorff@fedex.com> \nKristen Hable <mailto:khable@fedex.com> \nRuchi Pathak <mailto:ruchi.pathak@fedex.com> \nBhavya Polagani <mailto:bhavya.polagani@fedex.com> \nCarlo Pacini <mailto:giancarlo.pacini@fedex.com> \nshadi.gowhari@fedex.com <mailto:shadi.gowhari@fedex.com> \ncmiralles@fedex.com <mailto:cmiralles@fedex.com> \nyshan@fedex.com <mailto:yshan@fedex.com> \njonas.broughman@fedex.com <mailto:jonas.broughman@fedex.com> \nkashyap.darji@fedex.com <mailto:kashyap.darji@fedex.com> \nrrigharas@fedex.com <mailto:rrigharas@fedex.com> \nView all guest info <https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=VIEW&eid=N2QzYW42dTNsbmdhdTg0aHJ2OXIzM2lqZjJfUjIwMjMwODAyVDE1MDAwMCBkZXJlay5zdXRwaGluQGZlZGV4LmNvbQ&tok=MjgjbWl0Y2guZGVzbW9uZEBkYXRhYnJpY2tzLmNvbWI1NzMyNDAxZGU3Yzg2MmU4OGM0MDEwNjliNTAxMTAxOWFlMzM5OGE&ctz=America*2FNew_York&hl=en&es=0__\;JQ!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03mBBccwhQ$> \nRSVP for derek.sutphin@fedex.com <mailto:derek.sutphin@fedex.com>  for all events in this series\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=RESPOND&eid=N2QzYW42dTNsbmdhdTg0aHJ2OXIzM2lqZjJfUjIwMjMwODAyVDE1MDAwMCBkZXJlay5zdXRwaGluQGZlZGV4LmNvbQ&rst=1&tok=MjgjbWl0Y2guZGVzbW9uZEBkYXRhYnJpY2tzLmNvbWI1NzMyNDAxZGU3Yzg2MmU4OGM0MDEwNjliNTAxMTAxOWFlMzM5OGE&ctz=America*2FNew_York&hl=en&es=0__\;JQ!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03kYPv_3gQ$> \nYes	\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=RESPOND&eid=N2QzYW42dTNsbmdhdTg0aHJ2OXIzM2lqZjJfUjIwMjMwODAyVDE1MDAwMCBkZXJlay5zdXRwaGluQGZlZGV4LmNvbQ&rst=2&tok=MjgjbWl0Y2guZGVzbW9uZEBkYXRhYnJpY2tzLmNvbWI1NzMyNDAxZGU3Yzg2MmU4OGM0MDEwNjliNTAxMTAxOWFlMzM5OGE&ctz=America*2FNew_York&hl=en&es=0__\;JQ!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03kSzJ__OQ$> \nNo	\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=RESPOND&eid=N2QzYW42dTNsbmdhdTg0aHJ2OXIzM2lqZjJfUjIwMjMwODAyVDE1MDAwMCBkZXJlay5zdXRwaGluQGZlZGV4LmNvbQ&rst=3&tok=MjgjbWl0Y2guZGVzbW9uZEBkYXRhYnJpY2tzLmNvbWI1NzMyNDAxZGU3Yzg2MmU4OGM0MDEwNjliNTAxMTAxOWFlMzM5OGE&ctz=America*2FNew_York&hl=en&es=0__\;JQ!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03k5ETE-1g$> \nMaybe	\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=VIEW&eid=N2QzYW42dTNsbmdhdTg0aHJ2OXIzM2lqZjJfUjIwMjMwODAyVDE1MDAwMCBkZXJlay5zdXRwaGluQGZlZGV4LmNvbQ&tok=MjgjbWl0Y2guZGVzbW9uZEBkYXRhYnJpY2tzLmNvbWI1NzMyNDAxZGU3Yzg2MmU4OGM0MDEwNjliNTAxMTAxOWFlMzM5OGE&ctz=America*2FNew_York&hl=en&es=0__\;JQ!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03mBBccwhQ$> \nMore options	\n\nInvitation from Google Calendar <https://urldefense.com/v3/__https://calendar.google.com/calendar/__\;!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03mYCY5KEg$> \n\nYou are receiving this email because you are an attendee on the event. To stop receiving future updates for this event\, decline this event.\n\nForwarding this invitation could allow any recipient to send a response to the organizer\, be added to the guest list\, invite others regardless of their own invitation status\, or modify your RSVP. Learn more <https://urldefense.com/v3/__https://support.google.com/calendar/answer/37135*forwarding__\;Iw!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03naRiG9Bg$> \n
-ORGANIZER:mailto:mitch.desmond@databricks.com
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000081054AF2113DA01000000000000000010000000C58FF040E9229647B5314A1A8C75A074
 DTSTAMP:20251204T063557Z
 CREATED:20231109T093035Z
@@ -96,9 +23,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20251106T090000Z
 DTEND:20251106T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -125,9 +52,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
 SUMMARY:Off
@@ -351,9 +278,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20251113T090000Z
 DTEND:20251113T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -394,9 +321,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
 SUMMARY:Off
@@ -539,9 +466,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20251120T090000Z
 DTEND:20251120T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -582,9 +509,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
 SUMMARY:Off
@@ -724,9 +651,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20251127T090000Z
 DTEND:20251127T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -752,9 +679,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
 SUMMARY:Off
@@ -791,9 +718,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000248B8C44A84FDA01000000000000000010000000583563DC5A25264F9D655064DEDE5343
-DTSTAMP:20251204T063556Z
+DTSTAMP:20251205T100704Z
 CREATED:20240125T100508Z
-LAST-MODIFIED:20251204T063556Z
+LAST-MODIFIED:20251205T100704Z
 DTSTART:20251201T073000Z
 DTEND:20251201T080000Z
 SUMMARY:Renew DevOps Personal Access Token for TORCH API
@@ -936,9 +863,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20251204T090000Z
 DTEND:20251204T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -978,9 +905,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251206
 SUMMARY:Off
@@ -991,9 +918,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E0080000000000000000000000000000000000000000320000007643616C2D55696401000000353468666A31303330686E6271686D6362616B6363766965696940676F6F676C652E636F6D00
-DTSTAMP:20251128T133251Z
+DTSTAMP:20251205T100705Z
 CREATED:20251126T094832Z
-LAST-MODIFIED:20251128T133251Z
+LAST-MODIFIED:20251205T100705Z
 DTSTART:20251205T090000Z
 DTEND:20251205T100000Z
 SUMMARY:Multi-Genie Setups with DSPy: FedEx Databricks COE Training
@@ -1238,9 +1165,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20251211T090000Z
 DTEND:20251211T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -1252,9 +1179,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
 SUMMARY:Off
@@ -1436,9 +1363,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20251218T090000Z
 DTEND:20251218T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -1465,9 +1392,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
 SUMMARY:Off
@@ -1704,9 +1631,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20251225T090000Z
 DTEND:20251225T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -1732,9 +1659,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20251226
 DTEND;VALUE=DATE:20251227
 SUMMARY:Off
@@ -1888,9 +1815,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260101T090000Z
 DTEND:20260101T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -1902,9 +1829,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260103
 SUMMARY:Off
@@ -2100,9 +2027,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260108T090000Z
 DTEND:20260108T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -2129,9 +2056,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 SUMMARY:Off
@@ -2246,9 +2173,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260115T090000Z
 DTEND:20260115T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -2275,9 +2202,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
 SUMMARY:Off
@@ -2419,9 +2346,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260122T090000Z
 DTEND:20260122T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -2448,9 +2375,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
 SUMMARY:Off
@@ -2576,9 +2503,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260129T090000Z
 DTEND:20260129T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -2605,9 +2532,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
 SUMMARY:Off
@@ -2761,9 +2688,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260205T090000Z
 DTEND:20260205T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -2790,9 +2717,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260207
 SUMMARY:Off
@@ -2933,9 +2860,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260212T090000Z
 DTEND:20260212T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -2962,9 +2889,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:Off
@@ -3106,9 +3033,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260219T090000Z
 DTEND:20260219T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -3135,9 +3062,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 SUMMARY:Off
@@ -3235,9 +3162,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260226T090000Z
 DTEND:20260226T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -3264,9 +3191,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
 SUMMARY:Off
@@ -3445,9 +3372,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260305T090000Z
 DTEND:20260305T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -3474,9 +3401,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:Off
@@ -3587,9 +3514,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260312T090000Z
 DTEND:20260312T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -3616,9 +3543,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260314
 SUMMARY:Off
@@ -3773,9 +3700,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260319T090000Z
 DTEND:20260319T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -3802,9 +3729,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:Off
@@ -3917,9 +3844,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260326T090000Z
 DTEND:20260326T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -3946,9 +3873,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
 SUMMARY:Off
@@ -4100,9 +4027,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260402T090000Z
 DTEND:20260402T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -4129,9 +4056,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:Off
@@ -4242,9 +4169,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260409T090000Z
 DTEND:20260409T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -4271,9 +4198,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260411
 SUMMARY:Off
@@ -4386,9 +4313,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260416T090000Z
 DTEND:20260416T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -4415,9 +4342,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:Off
@@ -4529,9 +4456,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260423T090000Z
 DTEND:20260423T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -4558,9 +4485,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Off
@@ -4699,9 +4626,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260430T090000Z
 DTEND:20260430T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -4728,9 +4655,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Off
@@ -4882,9 +4809,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260507T090000Z
 DTEND:20260507T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -4911,9 +4838,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Off
@@ -5053,9 +4980,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260514T090000Z
 DTEND:20260514T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -5082,9 +5009,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Off
@@ -5248,9 +5175,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260521T090000Z
 DTEND:20260521T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -5277,9 +5204,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:Off
@@ -5431,9 +5358,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251127T094334Z
+DTSTAMP:20251205T080234Z
 CREATED:20231109T092823Z
-LAST-MODIFIED:20251127T094334Z
+LAST-MODIFIED:20251205T080234Z
 DTSTART:20260528T090000Z
 DTEND:20260528T110000Z
 SUMMARY:TORCH Recurring Working Session
@@ -5460,9 +5387,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251128T064502Z
+DTSTAMP:20251205T080235Z
 CREATED:20210617T084314Z
-LAST-MODIFIED:20251128T064502Z
+LAST-MODIFIED:20251205T080235Z
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
 SUMMARY:Off
@@ -5538,6 +5465,35 @@ SUMMARY:Masters Tournament Ticket Application
 DESCRIPTION:Caution! This email originated outside of FedEx. Please do not open attachments or click links from an unknown or suspicious origin.	\n\nMasters Tournament Ticket Application\nJoin with Google Meet – Applications for the 2024 Masters Tournament are now being acceptedmasters.com/en_US/info/tickets/index.html <https://urldefense.com/v3/__http://acceptedmasters.com/en_US/info/tickets/index.html__\;!!BL9GA0TyTA!eOJl5AfsNBRgt5mbR0wqVUc4TJTLeA22zoqeKSIupxzs8BZJ2y-xn2PZgSp3BxqDija0OY5yuhxqbGh9zJkL$> \n  \n<https://urldefense.com/v3/__https://meet.google.com/ywp-wyxm-hcw?hs=224__\;!!BL9GA0TyTA!eOJl5AfsNBRgt5mbR0wqVUc4TJTLeA22zoqeKSIupxzs8BZJ2y-xn2PZgSp3BxqDija0OY5yuhxqbMfjq_2w$> \nJoin with Google Meet	\n\nMeeting link\n\nmeet.google.com/ywp-wyxm-hcw <https://urldefense.com/v3/__https://meet.google.com/ywp-wyxm-hcw?hs=224__\;!!BL9GA0TyTA!eOJl5AfsNBRgt5mbR0wqVUc4TJTLeA22zoqeKSIupxzs8BZJ2y-xn2PZgSp3BxqDija0OY5yuhxqbMfjq_2w$> \nApplications for the 2024 Masters Tournament are now being accepted\nmasters.com/en_US/info/tickets/index.html <https://urldefense.com/v3/__https://www.google.com/url?q=https*3A*2F*2Fwww.masters.com*2Fen_US*2Finfo*2Ftickets*2Findex.html&sa=D&ust=1713301800000000&usg=AOvVaw1GnEwRqip14PBaYHQ23Ea3__\;JSUlJSUlJQ!!BL9GA0TyTA!eOJl5AfsNBRgt5mbR0wqVUc4TJTLeA22zoqeKSIupxzs8BZJ2y-xn2PZgSp3BxqDija0OY5yuhxqbOZ-mm9V$> \n\nWhen\n\nAnnually at 7am on June 3 (Central Time - Chicago)\n\nLocation\n\nAugusta\, GA\nView map <https://urldefense.com/v3/__https://www.google.com/maps/search/Augusta\,*GA?hl=en__\;Kw!!BL9GA0TyTA!eOJl5AfsNBRgt5mbR0wqVUc4TJTLeA22zoqeKSIupxzs8BZJ2y-xn2PZgSp3BxqDija0OY5yuhxqbHA79jFT$> \n\nGuests\n\nDerek Sutphin <mailto:drsutphin@gmail.com> \n- organizer\nderek.sutphin@fedex.com <mailto:derek.sutphin@fedex.com> \nView all guest info <https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=VIEW&eid=NGJiMTJtNm1jbzBrMTVmNHN1dmd0cml0ZmEgZGVyZWsuc3V0cGhpbkBmZWRleC5jb20&tok=MTkjZHJzdXRwaGluQGdtYWlsLmNvbTQ4NTg4M2VhMmRmN2RhNWQwNThiM2FkNGVhN2ZiOTI4YTAwYTczNWE&ctz=America*2FChicago&hl=en&es=0__\;JQ!!BL9GA0TyTA!eOJl5AfsNBRgt5mbR0wqVUc4TJTLeA22zoqeKSIupxzs8BZJ2y-xn2PZgSp3BxqDija0OY5yuhxqbJQFf1DC$> \nRSVP for derek.sutphin@fedex.com <mailto:derek.sutphin@fedex.com>  for all events in this series\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=RESPOND&eid=NGJiMTJtNm1jbzBrMTVmNHN1dmd0cml0ZmEgZGVyZWsuc3V0cGhpbkBmZWRleC5jb20&rst=1&tok=MTkjZHJzdXRwaGluQGdtYWlsLmNvbTQ4NTg4M2VhMmRmN2RhNWQwNThiM2FkNGVhN2ZiOTI4YTAwYTczNWE&ctz=America*2FChicago&hl=en&es=0__\;JQ!!BL9GA0TyTA!eOJl5AfsNBRgt5mbR0wqVUc4TJTLeA22zoqeKSIupxzs8BZJ2y-xn2PZgSp3BxqDija0OY5yuhxqbDD42NHb$> \nYes	\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=RESPOND&eid=NGJiMTJtNm1jbzBrMTVmNHN1dmd0cml0ZmEgZGVyZWsuc3V0cGhpbkBmZWRleC5jb20&rst=2&tok=MTkjZHJzdXRwaGluQGdtYWlsLmNvbTQ4NTg4M2VhMmRmN2RhNWQwNThiM2FkNGVhN2ZiOTI4YTAwYTczNWE&ctz=America*2FChicago&hl=en&es=0__\;JQ!!BL9GA0TyTA!eOJl5AfsNBRgt5mbR0wqVUc4TJTLeA22zoqeKSIupxzs8BZJ2y-xn2PZgSp3BxqDija0OY5yuhxqbF2-uCQd$> \nNo	\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=RESPOND&eid=NGJiMTJtNm1jbzBrMTVmNHN1dmd0cml0ZmEgZGVyZWsuc3V0cGhpbkBmZWRleC5jb20&rst=3&tok=MTkjZHJzdXRwaGluQGdtYWlsLmNvbTQ4NTg4M2VhMmRmN2RhNWQwNThiM2FkNGVhN2ZiOTI4YTAwYTczNWE&ctz=America*2FChicago&hl=en&es=0__\;JQ!!BL9GA0TyTA!eOJl5AfsNBRgt5mbR0wqVUc4TJTLeA22zoqeKSIupxzs8BZJ2y-xn2PZgSp3BxqDija0OY5yuhxqbKvicI3b$> \nMaybe	\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=VIEW&eid=NGJiMTJtNm1jbzBrMTVmNHN1dmd0cml0ZmEgZGVyZWsuc3V0cGhpbkBmZWRleC5jb20&tok=MTkjZHJzdXRwaGluQGdtYWlsLmNvbTQ4NTg4M2VhMmRmN2RhNWQwNThiM2FkNGVhN2ZiOTI4YTAwYTczNWE&ctz=America*2FChicago&hl=en&es=0__\;JQ!!BL9GA0TyTA!eOJl5AfsNBRgt5mbR0wqVUc4TJTLeA22zoqeKSIupxzs8BZJ2y-xn2PZgSp3BxqDija0OY5yuhxqbJQFf1DC$> \nMore options	\n\nInvitation from Google Calendar <https://urldefense.com/v3/__https://calendar.google.com/calendar/__\;!!BL9GA0TyTA!eOJl5AfsNBRgt5mbR0wqVUc4TJTLeA22zoqeKSIupxzs8BZJ2y-xn2PZgSp3BxqDija0OY5yuhxqbLPQn3VV$> \n\nYou are receiving this email because you are an attendee on the event. To stop receiving future updates for this event\, decline this event.\n\nForwarding this invitation could allow any recipient to send a response to the organizer\, be added to the guest list\, invite others regardless of their own invitation status\, or modify your RSVP. Learn more <https://urldefense.com/v3/__https://support.google.com/calendar/answer/37135*forwarding__\;Iw!!BL9GA0TyTA!eOJl5AfsNBRgt5mbR0wqVUc4TJTLeA22zoqeKSIupxzs8BZJ2y-xn2PZgSp3BxqDija0OY5yuhxqbNduUZBm$> \n
 LOCATION:Augusta\, GA
 ORGANIZER:mailto:Derek Sutphin
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E008000000008C6F4F62AA8FDB010000000000000000100000001F269D54AF70A948A5DE9F1E12AEA94C
+DTSTAMP:20251204T063555Z
+CREATED:20250307T154636Z
+LAST-MODIFIED:20251204T063555Z
+DTSTART:20260603T090000Z
+DTEND:20260603T100000Z
+SUMMARY:Enterprise FinOps: Azure Office hours (optional)
+DESCRIPTION:You are cordially invited to the Enterprise FinOps weekly office hours.  With cost optimization recommendations coming out monthly\, we\, the FinOps team would like to provide you a designated time slot where we are readily available to answer any questions or concerns that may emerge as you consider implementing the cost savings recommendations. We also here to assist on cost visibility- any questions around Azure spend or any Cloudability (FinOps tool) that you may have. Please join us if you have any questions!\n\nDuring this time\, Caitie\, Navi and Sean can answer questions related to:\n\n*	Cost optimization recommendations (monthly emailed spreadsheets\, Powerbi dashboards)\n*	Current and future demand\n*	Cost Usage details\n*	FinOps tooling (Cloudabililty\, Densify)\n\nIf  you need a separate call or have questions please reach out to Caitie.adams@fedex.com <mailto:Caitie.adams@fedex.com> . \n\n ________________________________________________________________________________\n\nMicrosoft Teams Need help? <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Den-US&data=05%7C02%7Cderek.sutphin%40fedex.com%7Cd03ff89291274faba17f08dd97a82e68%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638833470784027242%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=SRlZg7rn1XAumI9xb3MWvOcxO2u%2BnsSLTypu8Hldo%2Fw%3D&reserved=0>  \n\nJoin the meeting now <https://nam11.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_ZGZlOTYwYWQtNzEyYi00YmU4LTk0NzktNjczOTkwZTFmYmM4%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522b945c813-dce6-41f8-8457-5a12c2fe15bf%2522%252c%2522Oid%2522%253a%2522faa5f22f-71a6-4482-86ad-bfd658d127f4%2522%257d&data=05%7C02%7Cderek.sutphin%40fedex.com%7Cd03ff89291274faba17f08dd97a82e68%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638833470784062493%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=H0A1HBQaFezIzROMVGue8y%2BdaLBYYJm7iuyc54BOJsw%3D&reserved=0>  \n\nMeeting ID: 277 725 533 814 \n\nPasscode: FB2aQ2nN \n\n________________________________\n\nDial in by phone \n\n+1 629-777-3558\,\,827879619# <tel:+16297773558\,\,827879619>  United States\, Nashville \n\nFind a local number <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2F8b71d122-cda0-49d9-9e18-e44d877a63f2%3Fid%3D827879619&data=05%7C02%7Cderek.sutphin%40fedex.com%7Cd03ff89291274faba17f08dd97a82e68%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638833470784079936%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=I48v6a4YOttxJE2JvAUWlG6Yp3xHcf1f0dQLaE63%2B2o%3D&reserved=0>  \n\nPhone conference ID: 827 879 619# \n\nJoin on a video conferencing device \n\nTenant key: gofedex@m.webex.com <mailto:gofedex@m.webex.com>  \n\nVideo ID: 112 940 195 7 \n\nMore info <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.webex.com%2Fmsteams%3Fconfid%3D1129401957%26tenantkey%3Dgofedex%26domain%3Dm.webex.com&data=05%7C02%7Cderek.sutphin%40fedex.com%7Cd03ff89291274faba17f08dd97a82e68%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638833470784095631%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=FxDw5XL1%2FiLkA%2B%2Faf61rA78HEwE%2BsCAV0N8F%2BneKnGQ%3D&reserved=0>  \n\nFor organizers: Meeting options <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3ForganizerId%3Dfaa5f22f-71a6-4482-86ad-bfd658d127f4%26tenantId%3Db945c813-dce6-41f8-8457-5a12c2fe15bf%26threadId%3D19_meeting_ZGZlOTYwYWQtNzEyYi00YmU4LTk0NzktNjczOTkwZTFmYmM4%40thread.v2%26messageId%3D0%26language%3Den-US&data=05%7C02%7Cderek.sutphin%40fedex.com%7Cd03ff89291274faba17f08dd97a82e68%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638833470784117096%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RrhTRJlMDXq8RoW8INRPpleZgEc%2B5dCrIs0%2B3JyzTMs%3D&reserved=0>  | Reset dial-in PIN <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2Fusp%2Fpstnconferencing&data=05%7C02%7Cderek.sutphin%40fedex.com%7Cd03ff89291274faba17f08dd97a82e68%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638833470784137561%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=B67KEQZ%2FmWWSgZTDEZviOsQ7jRbyd9iwENW6iBwNIys%3D&reserved=0>  \n\n________________________________________________________________________________\n
+LOCATION:Microsoft Teams Meeting
+ORGANIZER:mailto:Caitie Adams
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000000000000000000000000000000000000430000007643616C2D55696401000000376433616E3675336C6E676175383468727639723333696A66325F5232303233303830325431353030303040676F6F676C652E636F6D00
+DTSTAMP:20251204T063558Z
+CREATED:20230802T115200Z
+LAST-MODIFIED:20251204T063558Z
+DTSTART:20260603T100000Z
+DTEND:20260603T110000Z
+SUMMARY:Databricks <> FedEx Bi-weekly Enablement
+DESCRIPTION:Caution! This email originated outside of FedEx. Please do not open attachments or click links from an unknown or suspicious origin.	\n\nDatabricks <> FedEx Bi-weekly Enablement\n--------------------------------------------------------Hi Team!I hope that this finds you well. We wanted to set up a separate cadence for enablement sessions than the weekly office hours.Please see \n  \nThis event has been updated	\n  \nJoin Zoom Meeting <https://urldefense.com/v3/__https://databricks.zoom.us/j/89162680246__\;!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03kTl9Ku7A$> \ndatabricks.zoom.us/j/89162680246 <https://urldefense.com/v3/__https://databricks.zoom.us/j/89162680246__\;!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03kTl9Ku7A$>  \nID: 89162680246\n\n\nJoin by phone\n\n(US) +1 877-853-5247 <tel:+18778535247\,\,89162680246#>  \n(GB) +44 800 358 2817 <tel:+448003582817\,\,89162680246#>  \n\nJoining instructions <https://urldefense.com/v3/__https://www.google.com/url?q=https:**Aapplications.zoom.us*addon*invitation*detail*meetingUuid*3DpDfPwxPRTcKPzlkjFbYR8g*253D*253D*26signature*3Dff22c73b40f8a3d410e338f6b15eea5e2900d9a69532c223e7dbe7db7663f5e0*26v*3D1&sa=D&source=calendar&usg=AOvVaw0c009PMKcRMI9rCBtJQY5p__\;Ly8vLy8_JSUlJSUlJQ!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03nq9d-UJg$> \n\n\nJoining notes\n\nMeeting host: william.block@databricks.com <mailto:william.block@databricks.com> \n\nJoin Zoom Meeting: \nhttps://databricks.zoom.us/j/89162680246 <https://urldefense.com/v3/__https://www.google.com/url?q=https*3A*2F*2Fdatabricks.zoom.us*2Fj*2F89162680246&sa=D&ust=1691427000000000&usg=AOvVaw31VgHDXTxtICthjW_86n1W__\;JSUlJSU!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03mqOwwY1w$> \n--------------------------------------------------------\n\n\nHi Team!\n\nI hope that this finds you well. We wanted to set up a separate cadence for enablement sessions than the weekly office hours.\n\nPlease see here <https://urldefense.com/v3/__https://docs.google.com/spreadsheets/d/1LXKtEapvk0-_58Vya2PedeRC90LsCcVgX11qec8AcKU/edit*gid=1008639438__\;Iw!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03kc_BSZZg$>  for a proposed list of enablement sessions that we are planning on running.\n\nPlease fill this out if you have a request for a specific enablement session <https://urldefense.com/v3/__https://www.google.com/url?q=https*3A*2F*2Fforms.office.com*2Fr*2FFcJUtAysqu&sa=D&ust=1691427000000000&usg=AOvVaw3CKe2LdA7dFqnjPD9Xi62b__\;JSUlJSU!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03n86kex8Q$> .\n\nLet us know if you have any questions!\n\nThanks\,\n\nWill\n\nWhen\n\nEvery 2 weeks from 11am to 12pm on Wednesday (Eastern Time - New York)\n\nGuests\n\nmitch.desmond@databricks.com <mailto:mitch.desmond@databricks.com> \n- organizer\nwilliam.block@databricks.com <mailto:william.block@databricks.com> \n- creator\nabaker@fedex.com <mailto:abaker@fedex.com> \nadam.blair@fedex.com <mailto:adam.blair@fedex.com> \nagharrison@fedex.com <mailto:agharrison@fedex.com> \nakshay.thakare@fedex.com <mailto:akshay.thakare@fedex.com> \nAllen Winfree <mailto:alwinfree@fedex.com> \nankit.sikka@fedex.com <mailto:ankit.sikka@fedex.com> \nAnuja Nagare <mailto:anuja.nagare@fedex.com> \narlene.grahek@fedex.com <mailto:arlene.grahek@fedex.com> \nbaojian.guo@fedex.com <mailto:baojian.guo@fedex.com> \nBen Baker <mailto:ben.baker@databricks.com> \nBen Hayes <mailto:ben.hayes@databricks.com> \nbrad.semrad@fedex.com <mailto:brad.semrad@fedex.com> \nBrian Hoogstra <mailto:brian.hoogstra@fedex.com> \nchinnatat.methapatara@fedex.com <mailto:chinnatat.methapatara@fedex.com> \nchris.bochman@fedex.com <mailto:chris.bochman@fedex.com> \nclif.williamson@fedex.com <mailto:clif.williamson@fedex.com> \ncoleman.anderson@fedex.com <mailto:coleman.anderson@fedex.com> \nDale Michalk <mailto:dalem@databricks.com> \nDavid Ason <mailto:david.ason@fedex.com> \neric.clapsaddle@fedex.com <mailto:eric.clapsaddle@fedex.com> \nfarnaz.khaghani@fedex.com <mailto:farnaz.khaghani@fedex.com> \nHalirou Osse <mailto:halirou.osse@fedex.com> \njason.han@fedex.com <mailto:jason.han@fedex.com> \njason.welch@fedex.com <mailto:jason.welch@fedex.com> \njay.varner@fedex.com <mailto:jay.varner@fedex.com> \njc.martin@fedex.com <mailto:jc.martin@fedex.com> \njohnathan.whitt@fedex.com <mailto:johnathan.whitt@fedex.com> \njoshuaanderson@fedex.com <mailto:joshuaanderson@fedex.com> \nJudy Scott <mailto:judith.scott@fedex.com> \njustin.pavis@fedex.com <mailto:justin.pavis@fedex.com> \nkaladhar.gaddam@fedex.com <mailto:kaladhar.gaddam@fedex.com> \nkeith.kroeger@fedex.com <mailto:keith.kroeger@fedex.com> \nkjmcclarty@fedex.com <mailto:kjmcclarty@fedex.com> \nkun.tao@fedex.com <mailto:kun.tao@fedex.com> \nKyle Hale <mailto:kyle.hale@databricks.com> \nleifeng@fedex.com <mailto:leifeng@fedex.com> \nlisa.perez@fedex.com <mailto:lisa.perez@fedex.com> \nljwillis@fedex.com <mailto:ljwillis@fedex.com> \nlucille.bridges@fedex.com <mailto:lucille.bridges@fedex.com> \nmahzabin.akhter@fedex.com <mailto:mahzabin.akhter@fedex.com> \nmanesseh.daniel@fedex.com <mailto:manesseh.daniel@fedex.com> \nmgcooper@fedex.com <mailto:mgcooper@fedex.com> \nmitch.plummer@fedex.com <mailto:mitch.plummer@fedex.com> \nmlawson@fedex.com <mailto:mlawson@fedex.com> \nParvathi Reddi <mailto:parvathi.reddi@databricks.com> \npaul.papaiah@fedex.com <mailto:paul.papaiah@fedex.com> \npetrick.adams@fedex.com <mailto:petrick.adams@fedex.com> \nrachit.choksi@fedex.com <mailto:rachit.choksi@fedex.com> \nradha.krishnan@fedex.com <mailto:radha.krishnan@fedex.com> \nRajesh Yerram <mailto:rajesh.yerram@fedex.com> \nRyan Coffman <mailto:ryan.coffman@databricks.com> \nsam.shojaei@fedex.com <mailto:sam.shojaei@fedex.com> \nSara Lam <mailto:sara.lam@fedex.com> \nSourav Mohanty <mailto:sourav.mohanty@fedex.com> \nSrikant Chari <mailto:srikant.chari@fedex.com> \nSree Ram <mailto:srram@microsoft.com> \nsudheer.gangadharan@fedex.com <mailto:sudheer.gangadharan@fedex.com> \ntharun.bejawada@fedex.com <mailto:tharun.bejawada@fedex.com> \nTimothy Garritty <mailto:timothy.garritty@databricks.com> \ntommy.moran@fedex.com <mailto:tommy.moran@fedex.com> \nubhetwal@shoprunner.com <mailto:ubhetwal@shoprunner.com> \nvbattaglia@fedex.com <mailto:vbattaglia@fedex.com> \nvbersez@fedex.com <mailto:vbersez@fedex.com> \nvidya.srinivas@fedex.com <mailto:vidya.srinivas@fedex.com> \nvivek.varadarajan@fedex.com <mailto:vivek.varadarajan@fedex.com> \nvlakshmanan@fedex.com <mailto:vlakshmanan@fedex.com> \nvromeo@fedex.com <mailto:vromeo@fedex.com> \nysfong@fedex.com <mailto:ysfong@fedex.com> \nyun.fu@fedex.com <mailto:yun.fu@fedex.com> \nandres.urrutia@databricks.com <mailto:andres.urrutia@databricks.com> \nnaveen.kaswa@fedex.com <mailto:naveen.kaswa@fedex.com> \nrsprovence@fedex.com <mailto:rsprovence@fedex.com> \nDavid Bernard <mailto:dbernard@fedex.com> \nPaul Ray <mailto:paul.k.ray@fedex.com> \nShantanu Hirlekar <mailto:shantanu.hirlekar@fedex.com> \nferas.seder@databricks.com <mailto:feras.seder@databricks.com> \nEvan Kang <mailto:evan.kang@fedex.com> \njustin.p.williams@fedex.com <mailto:justin.p.williams@fedex.com> \nshravan.gunti@fedex.com <mailto:shravan.gunti@fedex.com> \nrohith.mendu@fedex.com <mailto:rohith.mendu@fedex.com> \nthirupathi.nizampatnam.osv@fedex.com <mailto:thirupathi.nizampatnam.osv@fedex.com> \nharshavardhan.vempati@fedex.com <mailto:harshavardhan.vempati@fedex.com> \nRay Xue <mailto:zhuqing.xue@fedex.com> \nmgarnowski@fedex.com <mailto:mgarnowski@fedex.com> \nFrancis Mirigliano <mailto:francis_mirigliano@epam.com> \nmanoj.kandukuri@fedex.com <mailto:manoj.kandukuri@fedex.com> \nnarayana.ganta.osv@fedex.com <mailto:narayana.ganta.osv@fedex.com> \nMd Khurram Monir Rabby <mailto:md.rabby@fedex.com> \nmanik.goomer@fedex.com <mailto:manik.goomer@fedex.com> \nNarayana Ganta <mailto:narayana_ganta@epam.com> \npooja.shanmugam@fedex.com <mailto:pooja.shanmugam@fedex.com> \npriyanka.patil@fedex.com <mailto:priyanka.patil@fedex.com> \nantony.scaldaferri@fedex.com <mailto:antony.scaldaferri@fedex.com> \nbipin.sharma@fedex.com <mailto:bipin.sharma@fedex.com> \naakash.tailor@fedex.com <mailto:aakash.tailor@fedex.com> \nBalaji Ramanathan <mailto:balaji.ramanathan@fedex.com> \ncarolina.melul@fedex.com <mailto:carolina.melul@fedex.com> \nchad.barton@fedex.com <mailto:chad.barton@fedex.com> \nChandra Parchuri <mailto:chandra.parchuri@microsoft.com> \ndennis@fedex.com <mailto:dennis@fedex.com> \ndhuang@fedex.com <mailto:dhuang@fedex.com> \nEnes Hayik <mailto:enes.hayik@fedex.com> \nfalguni.chudasama@fedex.com <mailto:falguni.chudasama@fedex.com> \nFarhan Ahmed <mailto:farhan.ahmed@fedex.com> \nforrest.treadway@fedex.com <mailto:forrest.treadway@fedex.com> \nfredrick.macklin@fedex.com <mailto:fredrick.macklin@fedex.com> \ngabriel.piekarek@fedex.com <mailto:gabriel.piekarek@fedex.com> \ngabrielle.rivera@fedex.com <mailto:gabrielle.rivera@fedex.com> \nganesan.ramaswamy@fedex.com <mailto:ganesan.ramaswamy@fedex.com> \ngeorge.richardson@fedex.com <mailto:george.richardson@fedex.com> \ngopal.karumathil@fedex.com <mailto:gopal.karumathil@fedex.com> \njack.homareau@fedex.com <mailto:jack.homareau@fedex.com> \njenny.varghese@fedex.com <mailto:jenny.varghese@fedex.com> \njeremy.lerner@fedex.com <mailto:jeremy.lerner@fedex.com> \njeremy.stewart@fedex.com <mailto:jeremy.stewart@fedex.com> \njoe.pascal@fedex.com <mailto:joe.pascal@fedex.com> \njoe.seidl@fedex.com <mailto:joe.seidl@fedex.com> \nkatherine.werner@fedex.com <mailto:katherine.werner@fedex.com> \nke.mao@fedex.com <mailto:ke.mao@fedex.com> \nkeerthichandra.nagareddy@fedex.com <mailto:keerthichandra.nagareddy@fedex.com> \nkeith.mcwhite@fedex.com <mailto:keith.mcwhite@fedex.com> \nkiran.parupudi@fedex.com <mailto:kiran.parupudi@fedex.com> \nleslie.koon@fedex.com <mailto:leslie.koon@fedex.com> \nmac.mckee@fedex.com <mailto:mac.mckee@fedex.com> \nmadhav.chavan.osv@fedex.com <mailto:madhav.chavan.osv@fedex.com> \nMartijn Reijnaars <mailto:martijn.reijnaars@fedex.com> \nmikhan@fedex.com <mailto:mikhan@fedex.com> \nmmohr@fedex.com <mailto:mmohr@fedex.com> \nnaveen.mamidipalli@fedex.com <mailto:naveen.mamidipalli@fedex.com> \nnfussell@fedex.com <mailto:nfussell@fedex.com> \nniharika.ankam.osv@fedex.com <mailto:niharika.ankam.osv@fedex.com> \npankaj.vispute@fedex.com <mailto:pankaj.vispute@fedex.com> \nparamjeet.sohal@fedex.com <mailto:paramjeet.sohal@fedex.com> \npreethi.gowda@fedex.com <mailto:preethi.gowda@fedex.com> \nrachna.jain@fedex.com <mailto:rachna.jain@fedex.com> \nroya.ghorashi@fedex.com <mailto:roya.ghorashi@fedex.com> \nsalesu-werner@corp.ds.fedex.com <mailto:salesu-werner@corp.ds.fedex.com> \nsean.livelsberger@fedex.com <mailto:sean.livelsberger@fedex.com> \nsindhu.datla@fedex.com <mailto:sindhu.datla@fedex.com> \nSri Jampani <mailto:sridevi.jampani@fedex.com> \nsrikanth.kumar.osv@fedex.com <mailto:srikanth.kumar.osv@fedex.com> \nstephen.lee@fedex.com <mailto:stephen.lee@fedex.com> \ntaylor.larson@fedex.com <mailto:taylor.larson@fedex.com> \nvenkateshwer.katikaneni@fedex.com <mailto:venkateshwer.katikaneni@fedex.com> \nVikram Mahawal <mailto:vmahawal@fedex.com> \nWarner Anthamatten <mailto:wanthamatten@fedex.com> \nWill Fruitt <mailto:willfruitt@microsoft.com> \nwilliam.gorman@fedex.com <mailto:william.gorman@fedex.com> \nXiaolin Zhao <mailto:xiaolin.zhao@fedex.com> \nyuan.lu@fedex.com <mailto:yuan.lu@fedex.com> \nyun.xiao@fedex.com <mailto:yun.xiao@fedex.com> \nPriyanka Purkayastha <mailto:priyanka.purkayastha@fedex.com> \nshaji.thomas@fedex.com <mailto:shaji.thomas@fedex.com> \nsamayo@fedex.com <mailto:samayo@fedex.com> \ndmanikonda@fedex.com <mailto:dmanikonda@fedex.com> \ndinesh.bollimuntha@fedex.com <mailto:dinesh.bollimuntha@fedex.com> \njanetwilson@fedex.com <mailto:janetwilson@fedex.com> \ncharles.hawk@fedex.com <mailto:charles.hawk@fedex.com> \ntingting.zhu@fedex.com <mailto:tingting.zhu@fedex.com> \nmselliott@fedex.com <mailto:mselliott@fedex.com> \nlingfeng.li@fedex.com <mailto:lingfeng.li@fedex.com> \nvolkan.gumuskaya@fedex.com <mailto:volkan.gumuskaya@fedex.com> \nilja.rausch@fedex.com <mailto:ilja.rausch@fedex.com> \ndavidtaylor2@fedex.com <mailto:davidtaylor2@fedex.com> \naaron.workman@fedex.com <mailto:aaron.workman@fedex.com> \njoe.pellicciotti@fedex.com <mailto:joe.pellicciotti@fedex.com> \nderek.sutphin@fedex.com <mailto:derek.sutphin@fedex.com> \nRaj Krishna K. K. <mailto:rajkkk@fedex.com> \nHazem Radi <mailto:hazem.radi@fedex.com> \nnkhan@fedex.com <mailto:nkhan@fedex.com> \nyoonsik.yu@fedex.com <mailto:yoonsik.yu@fedex.com> \nMireia Ferrer Sancho <mailto:mireia.ferrer@fedex.com> \nAmy Hart <mailto:amy.hart@fedex.com> \nRandall Orndorff <mailto:randall.orndorff@fedex.com> \nKristen Hable <mailto:khable@fedex.com> \nRuchi Pathak <mailto:ruchi.pathak@fedex.com> \nBhavya Polagani <mailto:bhavya.polagani@fedex.com> \nCarlo Pacini <mailto:giancarlo.pacini@fedex.com> \nshadi.gowhari@fedex.com <mailto:shadi.gowhari@fedex.com> \ncmiralles@fedex.com <mailto:cmiralles@fedex.com> \nyshan@fedex.com <mailto:yshan@fedex.com> \njonas.broughman@fedex.com <mailto:jonas.broughman@fedex.com> \nkashyap.darji@fedex.com <mailto:kashyap.darji@fedex.com> \nrrigharas@fedex.com <mailto:rrigharas@fedex.com> \nView all guest info <https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=VIEW&eid=N2QzYW42dTNsbmdhdTg0aHJ2OXIzM2lqZjJfUjIwMjMwODAyVDE1MDAwMCBkZXJlay5zdXRwaGluQGZlZGV4LmNvbQ&tok=MjgjbWl0Y2guZGVzbW9uZEBkYXRhYnJpY2tzLmNvbWI1NzMyNDAxZGU3Yzg2MmU4OGM0MDEwNjliNTAxMTAxOWFlMzM5OGE&ctz=America*2FNew_York&hl=en&es=0__\;JQ!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03mBBccwhQ$> \nRSVP for derek.sutphin@fedex.com <mailto:derek.sutphin@fedex.com>  for all events in this series\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=RESPOND&eid=N2QzYW42dTNsbmdhdTg0aHJ2OXIzM2lqZjJfUjIwMjMwODAyVDE1MDAwMCBkZXJlay5zdXRwaGluQGZlZGV4LmNvbQ&rst=1&tok=MjgjbWl0Y2guZGVzbW9uZEBkYXRhYnJpY2tzLmNvbWI1NzMyNDAxZGU3Yzg2MmU4OGM0MDEwNjliNTAxMTAxOWFlMzM5OGE&ctz=America*2FNew_York&hl=en&es=0__\;JQ!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03kYPv_3gQ$> \nYes	\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=RESPOND&eid=N2QzYW42dTNsbmdhdTg0aHJ2OXIzM2lqZjJfUjIwMjMwODAyVDE1MDAwMCBkZXJlay5zdXRwaGluQGZlZGV4LmNvbQ&rst=2&tok=MjgjbWl0Y2guZGVzbW9uZEBkYXRhYnJpY2tzLmNvbWI1NzMyNDAxZGU3Yzg2MmU4OGM0MDEwNjliNTAxMTAxOWFlMzM5OGE&ctz=America*2FNew_York&hl=en&es=0__\;JQ!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03kSzJ__OQ$> \nNo	\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=RESPOND&eid=N2QzYW42dTNsbmdhdTg0aHJ2OXIzM2lqZjJfUjIwMjMwODAyVDE1MDAwMCBkZXJlay5zdXRwaGluQGZlZGV4LmNvbQ&rst=3&tok=MjgjbWl0Y2guZGVzbW9uZEBkYXRhYnJpY2tzLmNvbWI1NzMyNDAxZGU3Yzg2MmU4OGM0MDEwNjliNTAxMTAxOWFlMzM5OGE&ctz=America*2FNew_York&hl=en&es=0__\;JQ!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03k5ETE-1g$> \nMaybe	\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=VIEW&eid=N2QzYW42dTNsbmdhdTg0aHJ2OXIzM2lqZjJfUjIwMjMwODAyVDE1MDAwMCBkZXJlay5zdXRwaGluQGZlZGV4LmNvbQ&tok=MjgjbWl0Y2guZGVzbW9uZEBkYXRhYnJpY2tzLmNvbWI1NzMyNDAxZGU3Yzg2MmU4OGM0MDEwNjliNTAxMTAxOWFlMzM5OGE&ctz=America*2FNew_York&hl=en&es=0__\;JQ!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03mBBccwhQ$> \nMore options	\n\nInvitation from Google Calendar <https://urldefense.com/v3/__https://calendar.google.com/calendar/__\;!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03mYCY5KEg$> \n\nYou are receiving this email because you are an attendee on the event. To stop receiving future updates for this event\, decline this event.\n\nForwarding this invitation could allow any recipient to send a response to the organizer\, be added to the guest list\, invite others regardless of their own invitation status\, or modify your RSVP. Learn more <https://urldefense.com/v3/__https://support.google.com/calendar/answer/37135*forwarding__\;Iw!!BL9GA0TyTA!YwjiW2C5flaj7OW2FedsDUq8JOye9fdxDa346XO-j7ike14VNIdO-L9Qo9YV7GfZDo_LclDTRWvsprWPz0uH03naRiG9Bg$> \n
+ORGANIZER:mailto:mitch.desmond@databricks.com
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 PRIORITY:5
