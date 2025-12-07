@@ -7,102 +7,6 @@ X-WR-CALNAME:Outlook Calendar
 X-WR-TIMEZONE:America/Chicago
 
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20251205T080234Z
-CREATED:20231109T092823Z
-LAST-MODIFIED:20251205T080234Z
-DTSTART:20251106T090000Z
-DTEND:20251106T110000Z
-SUMMARY:TORCH Recurring Working Session
-DESCRIPTION:Regularly scheduled meeting to work on TORCH enhancements and TechOps projects
-ORGANIZER:mailto:Derek Sutphin
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E0080000000002978C0E90BEDB01000000000000000010000000D140A1E8FDC80A4DAD961A2A04BC4819
-DTSTAMP:20251204T161955Z
-CREATED:20250506T090626Z
-LAST-MODIFIED:20251204T161955Z
-DTSTART:20251106T140000Z
-DTEND:20251106T150000Z
-SUMMARY:TDR ML Weekly Check-In
-DESCRIPTION:Weekly meeting to discuss updates\n\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2U0N2JiNjktMzdlMy00MmNkLWFmMTktMmM5ZGFhNTdlYzZj%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 246 581 568 854 4 \nPasscode: kG34ui9z \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,676645080# <tel:+16297773558\,\,676645080#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=676645080>  \nPhone conference ID: 676 645 080# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 619 415 3 \nMore info <https://www.webex.com/msteams?confid=1136194153&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_Y2U0N2JiNjktMzdlMy00MmNkLWFmMTktMmM5ZGFhNTdlYzZj@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
-LOCATION:Microsoft Teams Meeting
-ORGANIZER:mailto:Derek Sutphin
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
-DTSTAMP:20251205T080235Z
-CREATED:20210617T084314Z
-LAST-MODIFIED:20251205T080235Z
-DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251108
-SUMMARY:Off
-ORGANIZER:mailto:Derek Sutphin
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E0080000000060A20531DF66D401000000000000000010000000954822AD2ECEEC41A063CF67B30A376C
-DTSTAMP:20251107T061209Z
-CREATED:20181018T123646Z
-LAST-MODIFIED:20251107T061209Z
-DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251108
-SUMMARY:Run CRT Component Pain Index for Aaron
-ORGANIZER:mailto:Derek Sutphin
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-PRIORITY:1
-END:VEVENT
-BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000E0112BC68EF9D3010000000000000000100000000E53092233C7F348963CFAC788DF8EB1
-DTSTAMP:20251107T061210Z
-CREATED:20180601T095630Z
-LAST-MODIFIED:20251107T061210Z
-DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251108
-SUMMARY:Run Pain Index
-ORGANIZER:mailto:Derek Sutphin
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E0080000000040C2740A1D47DC0100000000000000001000000012852BE60C3170439202A34F9B5E13EB
-DTSTAMP:20251108T061632Z
-CREATED:20251027T084159Z
-LAST-MODIFIED:20251108T061632Z
-DTSTART:20251107T064500Z
-DTEND:20251107T081500Z
-SUMMARY:Shelby County Clerk
-LOCATION:150 Washington Avenue Memphis\, TN 38103
-ORGANIZER:mailto:cutiger79@comcast.net
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E0080000000000000000000000000000000000000000320000007643616C2D556964010000003762356A613063327173327033656631736C317637333462636740676F6F676C652E636F6D00
-DTSTAMP:20251108T061633Z
-CREATED:20251031T141139Z
-LAST-MODIFIED:20251108T061633Z
-DTSTART:20251107T090000Z
-DTEND:20251107T100000Z
-SUMMARY:PowerBI on Databricks: FedEx Databricks COE Training
-DESCRIPTION:Caution! This email originated outside of FedEx. Please do not open attachments or click links from an unknown or suspicious origin.	\n\nPowerBI on Databricks: FedEx Databricks COE Training\nHi team\,Thank you for your interest in Databricks training! We'll follow up the previous Databricks Dashboards training with a demo of PowerBI on Databricks. In this session\, we'll focus on running Po\n  \nThis event has been updated\n\nChanged: conferencing\n  \nJoin Zoom Meeting <https://urldefense.com/v3/__https://databricks.zoom.us/j/83598641259?pwd=4iC6tkZkOeDR2Pbc4uHABWTaOGHd4B.1&jst=2__\;!!BL9GA0TyTA!Z3_AkIOBEiRVzBuSaye0_LbeLj3WjRb9Byd5LyGcw5nfNFwO5F_7JmLYibPNoA_EnhzKUFyhfmHlzVCQlqYKV2nP53o$> \ndatabricks.zoom.us/j/83598641259... <https://urldefense.com/v3/__https://databricks.zoom.us/j/83598641259?pwd=4iC6tkZkOeDR2Pbc4uHABWTaOGHd4B.1&jst=2__\;!!BL9GA0TyTA!Z3_AkIOBEiRVzBuSaye0_LbeLj3WjRb9Byd5LyGcw5nfNFwO5F_7JmLYibPNoA_EnhzKUFyhfmHlzVCQlqYKV2nP53o$>  \nID: 83598641259\npasscode: 214785\n\n\nJoin by phone\n\n(US) +1 833-548-0276 <tel:8335480276\,\,83598641259#>  \npasscode: 214785\n(GB) +44 800 260 5801 <tel:08002605801\,\,83598641259#>  \npasscode: 214785\n\nJoining instructions <https://urldefense.com/v3/__https://www.google.com/url?q=https:**Aapplications.zoom.us*addon*invitation*detail*meetingUuid*3DZj70uHo9TSiiY5Tz1YtVng*253D*253D*26signature*3Dfec3bdd1d5d7fb3696a2ad329c6f3923cf7bd879f18f3430caa654f554443d03*26v*3D1&sa=D&source=calendar&usg=AOvVaw1jvKjxuks8OMqXP1-Le5SL__\;Ly8vLy8_JSUlJSUlJQ!!BL9GA0TyTA!Z3_AkIOBEiRVzBuSaye0_LbeLj3WjRb9Byd5LyGcw5nfNFwO5F_7JmLYibPNoA_EnhzKUFyhfmHlzVCQlqYKX529D4g$> \n\n\nJoining notes\n\nMeeting host: josh.melton@databricks.com <mailto:josh.melton@databricks.com> \n\nJoin Zoom Meeting: \nhttps://databricks.zoom.us/j/83598641259?pwd=4iC6tkZkOeDR2Pbc4uHABWTaOGHd4B.1&jst=2 <https://urldefense.com/v3/__https://www.google.com/url?q=https*3A*2F*2Fdatabricks.zoom.us*2Fj*2F83598641259*3Fpwd*3D4iC6tkZkOeDR2Pbc4uHABWTaOGHd4B.1*26jst*3D2&sa=D&source=calendar&ust=1762369680000000&usg=AOvVaw3qSYLG0VQeAElPBiHfTvVc__\;JSUlJSUlJSUl!!BL9GA0TyTA!Z3_AkIOBEiRVzBuSaye0_LbeLj3WjRb9Byd5LyGcw5nfNFwO5F_7JmLYibPNoA_EnhzKUFyhfmHlzVCQlqYK8S0UuWk$> \nHi team\,\n\nThank you for your interest in Databricks training! We'll follow up the previous Databricks Dashboards training with a demo of PowerBI on Databricks. In this session\, we'll focus on running PowerBI Dashboards on top of Databricks-managed data. Please come prepared with any questions or feedback to help guide future sessions.\n\nThanks\,\n\nJosh\n\n\n\n\nIf you haven’t yet\, please fill out the short Training Questionnaire <https://urldefense.com/v3/__https://www.google.com/url?q=https*3A*2F*2Fsurveys.training.databricks.com*2Fjfe*2Fform*2FSV_4GilJ7utKMX9dbw*3ForgID*3D0016100000U5DkiAAF&sa=D&source=calendar&ust=1762369680000000&usg=AOvVaw3nqvmpykkDaxUKzGai0hus__\;JSUlJSUlJSU!!BL9GA0TyTA!Z3_AkIOBEiRVzBuSaye0_LbeLj3WjRb9Byd5LyGcw5nfNFwO5F_7JmLYibPNoA_EnhzKUFyhfmHlzVCQlqYK8GG-Av8$> !\n\nMore Training <https://urldefense.com/v3/__https://www.google.com/url?q=https*3A*2F*2Fwww.databricks.com*2Ftraining*2Fcatalog*3Fcosts*3Dfree*26levels*3Dintroductory*252Conboarding&sa=D&source=calendar&ust=1762369680000000&usg=AOvVaw2Uo41Mp0lTbwZGJOAX9RJ-__\;JSUlJSUlJSUlJQ!!BL9GA0TyTA!Z3_AkIOBEiRVzBuSaye0_LbeLj3WjRb9Byd5LyGcw5nfNFwO5F_7JmLYibPNoA_EnhzKUFyhfmHlzVCQlqYKdO1OZAk$>  \n\nDatabricks Events <https://urldefense.com/v3/__https://www.google.com/url?q=https*3A*2F*2Fwww.databricks.com*2Fevents&sa=D&source=calendar&ust=1762369680000000&usg=AOvVaw3amA16uhKIFspmNbTkytFh__\;JSUlJQ!!BL9GA0TyTA!Z3_AkIOBEiRVzBuSaye0_LbeLj3WjRb9Byd5LyGcw5nfNFwO5F_7JmLYibPNoA_EnhzKUFyhfmHlzVCQlqYKvfBqO4o$> \n\n\nWhen\n\nFriday Nov 7\, 2025 ⋅ 10am – 11am (Eastern Time - Indianapolis)\n\nOrganizer\n\nJosh Melton <mailto:josh.melton@databricks.com> \njosh.melton@databricks.com <mailto:josh.melton@databricks.com> \n\nGuests\n\n(Guest list is too large to display)\nReply for derek.sutphin@fedex.com <mailto:derek.sutphin@fedex.com> \n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=RESPOND&eid=N2I1amEwYzJxczJwM2VmMXNsMXY3MzRiY2cgZGVyZWsuc3V0cGhpbkBmZWRleC5jb20&rst=1&tok=MjYjam9zaC5tZWx0b25AZGF0YWJyaWNrcy5jb201NWYzNzFjZmQzMDcyZWY3N2FlODg2OGEyNDZkZjYzZjNkZjQzMTE0&ctz=America*2FIndiana*2FIndianapolis&hl=en&es=0__\;JSU!!BL9GA0TyTA!Z3_AkIOBEiRVzBuSaye0_LbeLj3WjRb9Byd5LyGcw5nfNFwO5F_7JmLYibPNoA_EnhzKUFyhfmHlzVCQlqYKTyIJ4U8$> \nYes	\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=RESPOND&eid=N2I1amEwYzJxczJwM2VmMXNsMXY3MzRiY2cgZGVyZWsuc3V0cGhpbkBmZWRleC5jb20&rst=2&tok=MjYjam9zaC5tZWx0b25AZGF0YWJyaWNrcy5jb201NWYzNzFjZmQzMDcyZWY3N2FlODg2OGEyNDZkZjYzZjNkZjQzMTE0&ctz=America*2FIndiana*2FIndianapolis&hl=en&es=0__\;JSU!!BL9GA0TyTA!Z3_AkIOBEiRVzBuSaye0_LbeLj3WjRb9Byd5LyGcw5nfNFwO5F_7JmLYibPNoA_EnhzKUFyhfmHlzVCQlqYKILknPNg$> \nNo	\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=RESPOND&eid=N2I1amEwYzJxczJwM2VmMXNsMXY3MzRiY2cgZGVyZWsuc3V0cGhpbkBmZWRleC5jb20&rst=3&tok=MjYjam9zaC5tZWx0b25AZGF0YWJyaWNrcy5jb201NWYzNzFjZmQzMDcyZWY3N2FlODg2OGEyNDZkZjYzZjNkZjQzMTE0&ctz=America*2FIndiana*2FIndianapolis&hl=en&es=0__\;JSU!!BL9GA0TyTA!Z3_AkIOBEiRVzBuSaye0_LbeLj3WjRb9Byd5LyGcw5nfNFwO5F_7JmLYibPNoA_EnhzKUFyhfmHlzVCQlqYKu7Lj2vU$> \nMaybe	\n<https://urldefense.com/v3/__https://calendar.google.com/calendar/event?action=VIEW&eid=N2I1amEwYzJxczJwM2VmMXNsMXY3MzRiY2cgZGVyZWsuc3V0cGhpbkBmZWRleC5jb20&tok=MjYjam9zaC5tZWx0b25AZGF0YWJyaWNrcy5jb201NWYzNzFjZmQzMDcyZWY3N2FlODg2OGEyNDZkZjYzZjNkZjQzMTE0&ctz=America*2FIndiana*2FIndianapolis&hl=en&es=0__\;JSU!!BL9GA0TyTA!Z3_AkIOBEiRVzBuSaye0_LbeLj3WjRb9Byd5LyGcw5nfNFwO5F_7JmLYibPNoA_EnhzKUFyhfmHlzVCQlqYKc6dNrK4$> \nMore options	\n\nInvitation from Google Calendar <https://urldefense.com/v3/__https://calendar.google.com/calendar/__\;!!BL9GA0TyTA!Z3_AkIOBEiRVzBuSaye0_LbeLj3WjRb9Byd5LyGcw5nfNFwO5F_7JmLYibPNoA_EnhzKUFyhfmHlzVCQlqYKW0ktEXI$> \n\nYou are receiving this email because you are an attendee on the event.\n\nForwarding this invitation could allow any recipient to send a response to the organizer\, be added to the guest list\, invite others regardless of their own invitation status\, or modify your RSVP. Learn more <https://urldefense.com/v3/__https://support.google.com/calendar/answer/37135*forwarding__\;Iw!!BL9GA0TyTA!Z3_AkIOBEiRVzBuSaye0_LbeLj3WjRb9Byd5LyGcw5nfNFwO5F_7JmLYibPNoA_EnhzKUFyhfmHlzVCQlqYKknW_8To$> \n
-ORGANIZER:mailto:Josh Melton
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E0080000000000000000000000000000000000000000320000007643616C2D55696401000000313538646C33686133753168386A65643074743176327264653840676F6F676C652E636F6D00
 DTSTAMP:20241111T064520Z
 CREATED:20241110T205906Z
@@ -703,9 +607,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000248B8C44A84FDA01000000000000000010000000583563DC5A25264F9D655064DEDE5343
-DTSTAMP:20251205T100704Z
+DTSTAMP:20251205T192510Z
 CREATED:20240125T100508Z
-LAST-MODIFIED:20251205T100704Z
+LAST-MODIFIED:20251205T192510Z
 DTSTART:20251201T073000Z
 DTEND:20251201T080000Z
 SUMMARY:Renew DevOps Personal Access Token for TORCH API
@@ -1038,9 +942,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000104929B0AD5ADC010000000000000000100000005731D6527DAE734EB1247FA42DE072D2
-DTSTAMP:20251204T185309Z
+DTSTAMP:20251206T223727Z
 CREATED:20251125T113331Z
-LAST-MODIFIED:20251204T185309Z
+LAST-MODIFIED:20251206T223727Z
 DTSTART:20251210T060000Z
 DTEND:20251210T100000Z
 SUMMARY:AVSH Christmas Breakfast
@@ -5507,6 +5411,48 @@ DTEND:20260603T150000Z
 SUMMARY:TORCH DevOps Engr. Recurring Working Session
 DESCRIPTION:Weekly meeting to discuss DevOps Engineering projects pertinent to TORCH.\n\n________________________________________________________________________________ \nMicrosoft Teams meeting \nJoin on your computer\, mobile app or room device \nClick here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTBhODRjZTctNzg3ZS00ZjI5LTk2NTUtNmUyN2Y0MjZkOTYy%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 269 408 356 881 \nPasscode: WubQm8 \nDownload Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | Join on the web <https://www.microsoft.com/microsoft-teams/join-a-meeting> \nJoin with a video conferencing device \ngofedex@m.webex.com \nVideo Conference ID: 117 880 644 0 \nAlternate VTC instructions <https://www.webex.com/msteams?confid=1178806440&tenantkey=gofedex&domain=m.webex.com>  \nOr call in (audio only) \n+1 629-777-3558\,\,845385288# <tel:+16297773558\,\,845385288#>    United States\, Nashville \nPhone Conference ID: 845 385 288# \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=845385288>  | Reset PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_YTBhODRjZTctNzg3ZS00ZjI5LTk2NTUtNmUyN2Y0MjZkOTYy@thread.v2&messageId=0&language=en-US>  \n________________________________________________________________________________ 
 LOCATION:Microsoft Teams Meeting
+ORGANIZER:mailto:Derek Sutphin
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
+DTSTAMP:20251205T080234Z
+CREATED:20231109T092823Z
+LAST-MODIFIED:20251205T080234Z
+DTSTART:20260604T090000Z
+DTEND:20260604T110000Z
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:Regularly scheduled meeting to work on TORCH enhancements and TechOps projects
+ORGANIZER:mailto:Derek Sutphin
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000002978C0E90BEDB01000000000000000010000000D140A1E8FDC80A4DAD961A2A04BC4819
+DTSTAMP:20251204T161955Z
+CREATED:20250506T090626Z
+LAST-MODIFIED:20251204T161955Z
+DTSTART:20260604T140000Z
+DTEND:20260604T150000Z
+SUMMARY:TDR ML Weekly Check-In
+DESCRIPTION:Weekly meeting to discuss updates\n\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2U0N2JiNjktMzdlMy00MmNkLWFmMTktMmM5ZGFhNTdlYzZj%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 246 581 568 854 4 \nPasscode: kG34ui9z \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,676645080# <tel:+16297773558\,\,676645080#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=676645080>  \nPhone conference ID: 676 645 080# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 619 415 3 \nMore info <https://www.webex.com/msteams?confid=1136194153&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_Y2U0N2JiNjktMzdlMy00MmNkLWFmMTktMmM5ZGFhNTdlYzZj@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+LOCATION:Microsoft Teams Meeting
+ORGANIZER:mailto:Derek Sutphin
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000A0E9F4B85463D701000000000000000010000000C0F389C3D3714E42A57D97CFD7E6739A
+DTSTAMP:20251205T080235Z
+CREATED:20210617T084314Z
+LAST-MODIFIED:20251205T080235Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Off
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
 STATUS:CONFIRMED
