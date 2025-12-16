@@ -38,9 +38,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
+DTSTAMP:20251216T140242Z
 CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+LAST-MODIFIED:20251216T140242Z
 DTSTART:20251118T130000Z
 DTEND:20251118T140000Z
 SUMMARY:WB Recurring Working Session
@@ -392,9 +392,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
+DTSTAMP:20251216T140242Z
 CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+LAST-MODIFIED:20251216T140242Z
 DTSTART:20251202T130000Z
 DTEND:20251202T140000Z
 SUMMARY:WB Recurring Working Session
@@ -846,9 +846,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
+DTSTAMP:20251216T140242Z
 CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+LAST-MODIFIED:20251216T140242Z
 DTSTART:20251216T130000Z
 DTEND:20251216T140000Z
 SUMMARY:WB Recurring Working Session
@@ -979,9 +979,9 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E0080000000000ED3B751A69DC010000000000000000100000003342ED3D0505B14DAE5C88E28958EEBD
-DTSTAMP:20251216T132419Z
+DTSTAMP:20251216T141332Z
 CREATED:20251209T144554Z
-LAST-MODIFIED:20251216T132419Z
+LAST-MODIFIED:20251216T141332Z
 DTSTART:20251218T110000Z
 DTEND:20251218T113000Z
 SUMMARY:Derek Sutphin 1 on 1
@@ -1189,13 +1189,13 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
-DTSTART:20251223T130000Z
-DTEND:20251223T140000Z
+DTSTAMP:20251216T140147Z
+CREATED:20251216T140034Z
+LAST-MODIFIED:20251216T140147Z
+DTSTART:20251223T133000Z
+DTEND:20251223T143000Z
 SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+DESCRIPTION:Adjusting this meeting back 30 minutes due to TOS Delays meeting\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -1346,14 +1346,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20251230T130000Z
 DTEND:20251230T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -1518,14 +1518,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260106T130000Z
 DTEND:20260106T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -1745,14 +1745,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260113T130000Z
 DTEND:20260113T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -1905,14 +1905,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260120T130000Z
 DTEND:20260120T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -2090,14 +2090,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260127T130000Z
 DTEND:20260127T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -2262,14 +2262,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260203T130000Z
 DTEND:20260203T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -2432,14 +2432,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260210T130000Z
 DTEND:20260210T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -2607,14 +2607,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260217T130000Z
 DTEND:20260217T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -2764,14 +2764,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260224T130000Z
 DTEND:20260224T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -2932,14 +2932,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260303T130000Z
 DTEND:20260303T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -3116,14 +3116,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260310T130000Z
 DTEND:20260310T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -3274,14 +3274,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260317T130000Z
 DTEND:20260317T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -3431,14 +3431,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260324T130000Z
 DTEND:20260324T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -3588,14 +3588,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260331T130000Z
 DTEND:20260331T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -3771,14 +3771,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260407T130000Z
 DTEND:20260407T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -3887,14 +3887,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260414T130000Z
 DTEND:20260414T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -4045,14 +4045,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260421T130000Z
 DTEND:20260421T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -4187,14 +4187,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260428T130000Z
 DTEND:20260428T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -4371,14 +4371,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260505T130000Z
 DTEND:20260505T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -4541,14 +4541,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260512T130000Z
 DTEND:20260512T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -4751,14 +4751,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260519T130000Z
 DTEND:20260519T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -4919,14 +4919,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260526T130000Z
 DTEND:20260526T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -5102,14 +5102,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260602T130000Z
 DTEND:20260602T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
@@ -5272,14 +5272,14 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251208T151412Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251208T151412Z
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251216T140354Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251216T140354Z
 DTSTART:20260609T130000Z
 DTEND:20260609T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
 LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
