@@ -7,19 +7,6 @@ X-WR-CALNAME:Outlook Calendar
 X-WR-TIMEZONE:America/Chicago
 
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E0080000000070CD74512B8FD101000000000000000010000000205C6BEE092B0E4497B5E9FC8C8676C4
-DTSTAMP:20251123T173942Z
-CREATED:20160405T110702Z
-LAST-MODIFIED:20251123T173942Z
-DTSTART;VALUE=DATE:20251123
-DTEND;VALUE=DATE:20251124
-SUMMARY:MLGW Bill
-ORGANIZER:mailto:Derek Sutphin
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E0080000000001962727E254DC01000000000000000010000000DBD5E4D40E6C4E49825D87263CB0A2E4
 DTSTAMP:20251124T134518Z
 CREATED:20251113T151207Z
@@ -903,15 +890,30 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000A047CE79954DDC01000000000000000010000000BEDB0D1F53004E41B325526223C6C288
-DTSTAMP:20251106T031602Z
+DTSTAMP:20251222T115433Z
 CREATED:20251104T141615Z
-LAST-MODIFIED:20251106T031602Z
+LAST-MODIFIED:20251222T115433Z
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20251225
 SUMMARY:Chris - Vacation
 LOCATION:Chattanooga/Augusta
 ORGANIZER:mailto:Christopher Darr
 TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000B07E70281973DC010000000000000000100000006A42D8A8FAAE7143B526875CF07B88DE
+DTSTAMP:20251222T082433Z
+CREATED:20251222T080156Z
+LAST-MODIFIED:20251222T082433Z
+DTSTART:20251222T100000Z
+DTEND:20251222T103000Z
+SUMMARY:Re: Warranty - Pick your Brain
+DESCRIPTION:\n------------\nFrom:	Derek Sutphin\nSent:	Friday\, December 19\, 2025 9:03 AM\nTo:	Curt Gobbell\nSubject:	Re: Warranty - Pick your Brain\n\nMonday works best (Tuesday I am slammed)\, and early Wednesday also works if Monday is out.\n\nDerek Sutphin | Chief Business Architect | Engineering\, Planning & Performance | FedEx Express\, Air Operations\nFedEx WHQ\, Building D\, 3640 Hacks Cross Road\, Memphis\, TN 38125 | office 901.409.1879 | fedex.com\n  _____  \n\nFrom: Curt Gobbell <cdgobbell@fedex.com <mailto:cdgobbell@fedex.com> >\nSent: Friday\, December 19\, 2025 8:06 AM\nTo: Derek Sutphin <derek.sutphin@fedex.com <mailto:derek.sutphin@fedex.com> >\nSubject: RE: Warranty - Pick your Brain \n \n\nDerek\,\n\n \n\nSorry\, yesterday and today have been flipped upside down.  Perhaps MTW of next week?\n\n \n\nCurt Gobbell - Manager\, Airframe Forecasting & Analysis\n\nFedEx Express - Office 901.252.0422\, Mobile 901.359.3794\n\n \n\nFrom: Derek Sutphin <derek.sutphin@fedex.com <mailto:derek.sutphin@fedex.com> > \nSent: Wednesday\, December 17\, 2025 11:16 AM\nTo: Curt Gobbell <cdgobbell@fedex.com <mailto:cdgobbell@fedex.com> >\nSubject: Re: Warranty - Pick your Brain\n\n \n\nI'm free tomorrow from 11:30am to 2pm\n\n \n\nDerek Sutphin | Chief Business Architect | Engineering\, Planning & Performance | FedEx Express\, Air Operations\n\nFedEx WHQ\, Building D\, 3640 Hacks Cross Road\, Memphis\, TN 38125 | office 901.409.1879 | fedex.com\n\n  _____  \n\nFrom: Curt Gobbell <cdgobbell@fedex.com <mailto:cdgobbell@fedex.com> >\nSent: Wednesday\, December 17\, 2025 8:06 AM\nTo: Derek Sutphin <derek.sutphin@fedex.com <mailto:derek.sutphin@fedex.com> >\nSubject: Warranty - Pick your Brain \n\n \n\nDerek\,\n\n \n\nWould you have a few minutes today/tomorrow for me to pick your brain on EO warranty (process\, data availability\, system tie etc..)? \n\n \n\nCurt Gobbell - Manager\, Airframe Forecasting & Analysis\n\nFedEx Express - Office 901.252.0422\, Mobile 901.359.3794\n\n \n\n\n\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzMyY2M2YjYtNTg0Ni00NmE4LTkzMDAtODBjMDM0YTkwMGZl%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%228952e497-8892-4bee-bb65-bcc30de6c5bb%22%7d>  \nMeeting ID: 268 512 964 271 16 \nPasscode: s5hW3xR7 \n\nDial in by phone \n+1 629-777-3558\,\,185420167# <tel:+16297773558\,\,185420167>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=185420167>  \nPhone conference ID: 185 420 167# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 114 408 807 1 \nMore info <https://www.webex.com/msteams?confid=1144088071&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=8952e497-8892-4bee-bb65-bcc30de6c5bb&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_NzMyY2M2YjYtNTg0Ni00NmE4LTkzMDAtODBjMDM0YTkwMGZl@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________\n
+LOCATION:Microsoft Teams Meeting
+ORGANIZER:mailto:Curt Gobbell
+TRANSP:OPAQUE
 STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
@@ -1139,6 +1141,19 @@ DTSTART;VALUE=DATE:20251226
 DTEND;VALUE=DATE:20251227
 SUMMARY:Off
 ORGANIZER:mailto:Derek Sutphin
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000C06B9F3FCB73DC010000000000000000100000002803F4824F112544993EF97A88ADC1CF
+DTSTAMP:20251223T052058Z
+CREATED:20251223T052007Z
+LAST-MODIFIED:20251223T052058Z
+DTSTART:20251226T053000Z
+DTEND:20251226T060000Z
+SUMMARY:Trim Purple Heart Today
+ORGANIZER:mailto:cutiger79@comcast.net
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 PRIORITY:5
