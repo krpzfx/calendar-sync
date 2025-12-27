@@ -1483,6 +1483,21 @@ STATUS:CONFIRMED
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000000000000000000000000000000000000310000007643616C2D5569640100000063363033323133662D643638332D343834662D623265392D36636635373839616134626600
+DTSTAMP:20251227T160341Z
+CREATED:20251227T160055Z
+LAST-MODIFIED:20251227T160341Z
+DTSTART:20260110T173000Z
+DTEND:20260110T193000Z
+SUMMARY:Firebirds Wood Fired Grill - Collierville
+DESCRIPTION:Firebirds Wood Fired Grill - Collierville Saturday\, January 10\, 2026 at 5:30 PM Firebirds Wood Fired Grill is your destination for bold flavors and warm hospitality. From expertly crafted wood-fired steaks and fresh seafood to signature cocktails\, mocktails\, and curated wines\, every detail is designed to deliver an unforgettable dining experience. Whether you're gathering with family\, hosting a client\, or toasting to a special occasion\, Firebirds offers elevated cuisine at an approachable price. Join us for Happy Hour at the FIREBAR® or on the patio and let us show you what extraordinary dining feels like. Reserve your table today — we can’t wait to serve you.\n(901) 850-1603\n\nhttps://www.google.com/maps/search/?api=1&query=35.0234543%2C-89.7206564 <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F%3Fapi%3D1%26query%3D35.0234543%252C-89.7206564&data=05%7C02%7Cderek.sutphin%40fedex.com%7C2cf7e85730064a693ffc08de4593675f%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C639024696557812688%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=55lsvhDiUQ49oRQhgW9lfDrWilvv8IFFFTI3wplyuQw%3D&reserved=0> \n
+LOCATION:4600 Merchants Prk Cir  Collierville\, TN United States 38017
+ORGANIZER:mailto:cutiger79@comcast.net
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000908351155260DB01000000000000000010000000D59700798547D0409B8E24107B7A09D4
 DTSTAMP:20251223T091114Z
 CREATED:20250106T155112Z
