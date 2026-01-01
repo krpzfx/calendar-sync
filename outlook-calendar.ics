@@ -7,21 +7,6 @@ X-WR-CALNAME:Outlook Calendar
 X-WR-TIMEZONE:America/Chicago
 
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000D5CC56FDF214DC010000000000000000100000000602B8EFF809FE4D9688FDE69D409F14
-DTSTAMP:20251223T204114Z
-CREATED:20250824T073117Z
-LAST-MODIFIED:20251223T204114Z
-DTSTART:20251202T130000Z
-DTEND:20251202T140000Z
-SUMMARY:WB Recurring Working Session
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758>  \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
-LOCATION:Microsoft Teams Meeting
-ORGANIZER:mailto:Derek Sutphin
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000508595BA105ADC0100000000000000001000000065A77BCB24025944A9A731D1E348F700
 DTSTAMP:20251202T140238Z
 CREATED:20251120T133217Z
@@ -5426,6 +5411,21 @@ SUMMARY:Predictive Analytics Meeting
 DESCRIPTION:Making a 2-hour meeting and note the room change\n\n________________________________________________________________________________\n\nMicrosoft Teams Need help? <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Den-US&data=05%7C02%7Cderek.sutphin%40fedex.com%7C0fc69f6f4ad24f846eef08de1649903c%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638972702370382547%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=cGMPWiGEq7m7dvEBJxHOm8GIMDJWEavB%2BI45uje5tAY%3D&reserved=0>  \n\nJoin the meeting now <https://nam11.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_MWUzZjQ0YjItYjAwNC00OWU5LWI0NTQtN2EzZDk5N2JkOTY1%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522b945c813-dce6-41f8-8457-5a12c2fe15bf%2522%252c%2522Oid%2522%253a%252263be9a81-ace9-4dc2-8534-95edc1cb73ab%2522%257d&data=05%7C02%7Cderek.sutphin%40fedex.com%7C0fc69f6f4ad24f846eef08de1649903c%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638972702370444379%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=vHHreMhxwQRIoQnhgmP2SPV2Ss8lkuqf5rEqCmYCgF4%3D&reserved=0>  \n\nMeeting ID: 290 700 676 119 \n\nPasscode: NR9Mq38k \n\n________________________________\n\nDial in by phone \n\n+1 629-777-3558\,\,797125876# <tel:+16297773558\,\,797125876>  United States\, Nashville \n\nFind a local number <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2F8b71d122-cda0-49d9-9e18-e44d877a63f2%3Fid%3D797125876&data=05%7C02%7Cderek.sutphin%40fedex.com%7C0fc69f6f4ad24f846eef08de1649903c%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638972702370464661%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=CWtjd598W5CKXr3toIJqzc0bV%2FGH83ekXdMu9XaqqyA%3D&reserved=0>  \n\nPhone conference ID: 797 125 876# \n\nJoin on a video conferencing device \n\nTenant key: gofedex@m.webex.com <mailto:gofedex@m.webex.com>  \n\nVideo ID: 111 163 375 9 \n\nMore info <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.webex.com%2Fmsteams%3Fconfid%3D1111633759%26tenantkey%3Dgofedex%26domain%3Dm.webex.com&data=05%7C02%7Cderek.sutphin%40fedex.com%7C0fc69f6f4ad24f846eef08de1649903c%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638972702370482774%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=L6V4xFmWxAwWWT7JLv44W1o%2FJeymg%2BtY%2BED7XsV7WrE%3D&reserved=0>  \n\nFor organizers: Meeting options <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3ForganizerId%3D63be9a81-ace9-4dc2-8534-95edc1cb73ab%26tenantId%3Db945c813-dce6-41f8-8457-5a12c2fe15bf%26threadId%3D19_meeting_MWUzZjQ0YjItYjAwNC00OWU5LWI0NTQtN2EzZDk5N2JkOTY1%40thread.v2%26messageId%3D0%26language%3Den-US&data=05%7C02%7Cderek.sutphin%40fedex.com%7C0fc69f6f4ad24f846eef08de1649903c%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638972702370502931%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=iyHzloCMbbZiW1BPfr3NU0%2B0HADYvtd3yup4NaEdfGs%3D&reserved=0>  | Reset dial-in PIN <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.microsoft.com%2Fusp%2Fpstnconferencing&data=05%7C02%7Cderek.sutphin%40fedex.com%7C0fc69f6f4ad24f846eef08de1649903c%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638972702370523596%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=iPg%2BlwiIaJfKsp8OEsP9JoCWbTDhLEQ9Mfk0NQYkn8c%3D&reserved=0>  \n\n________________________________________________________________________________\n\n \n
 LOCATION:D 3580\; US_TN_Memphis_WHQ_D_3580 (40)
 ORGANIZER:mailto:Aaron Workman
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000372D1DCDC66EDC0100000000000000001000000081B5A57BE1C67D409C2F766DBFD29734
+DTSTAMP:20251230T120955Z
+CREATED:20251216T140143Z
+LAST-MODIFIED:20251230T120955Z
+DTSTART:20260630T130000Z
+DTEND:20260630T140000Z
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d> \nMeeting ID: 262 515 598 571 4 \nPasscode: EK2qw7xf \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,843308758# <tel:+16297773558\,\,843308758#>  United States\, Nashville\nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=843308758> \nPhone conference ID: 843 308 758# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 545 554 6 \nMore info <https://www.webex.com/msteams?confid=1135455546&tenantkey=gofedex&domain=m.webex.com> \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_OWNlNTM4MGEtZTdkYy00NTEwLTlkNzEtNTRlNmViNTU2YTA0@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing> \n________________________________________________________________________________
+LOCATION:Microsoft Teams Meeting
+ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 PRIORITY:5
