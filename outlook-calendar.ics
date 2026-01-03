@@ -7,20 +7,6 @@ X-WR-CALNAME:Outlook Calendar
 X-WR-TIMEZONE:America/Chicago
 
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
-DTSTAMP:20260101T214256Z
-CREATED:20231109T092823Z
-LAST-MODIFIED:20260101T214256Z
-DTSTART:20251204T090000Z
-DTEND:20251204T110000Z
-SUMMARY:TORCH Recurring Working Session
-DESCRIPTION:Regularly scheduled meeting to work on TORCH enhancements and TechOps projects
-ORGANIZER:mailto:Derek Sutphin
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E0080000000002978C0E90BEDB01000000000000000010000000D140A1E8FDC80A4DAD961A2A04BC4819
 DTSTAMP:20251220T163633Z
 CREATED:20250506T090626Z
@@ -5409,6 +5395,20 @@ DTEND:20260701T150000Z
 SUMMARY:TORCH DevOps Engr. Recurring Working Session
 DESCRIPTION:Weekly meeting to discuss DevOps Engineering projects pertinent to TORCH.\n\n________________________________________________________________________________ \nMicrosoft Teams meeting \nJoin on your computer\, mobile app or room device \nClick here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTBhODRjZTctNzg3ZS00ZjI5LTk2NTUtNmUyN2Y0MjZkOTYy%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 269 408 356 881 \nPasscode: WubQm8 \nDownload Teams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | Join on the web <https://www.microsoft.com/microsoft-teams/join-a-meeting> \nJoin with a video conferencing device \ngofedex@m.webex.com \nVideo Conference ID: 117 880 644 0 \nAlternate VTC instructions <https://www.webex.com/msteams?confid=1178806440&tenantkey=gofedex&domain=m.webex.com>  \nOr call in (audio only) \n+1 629-777-3558\,\,845385288# <tel:+16297773558\,\,845385288#>    United States\, Nashville \nPhone Conference ID: 845 385 288# \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=845385288>  | Reset PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_YTBhODRjZTctNzg3ZS00ZjI5LTk2NTUtNmUyN2Y0MjZkOTYy@thread.v2&messageId=0&language=en-US>  \n________________________________________________________________________________ 
 LOCATION:Microsoft Teams Meeting
+ORGANIZER:mailto:Derek Sutphin
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E00800000000027642602113DA01000000000000000010000000D95049B3996E8540945A47CCA3B1934D
+DTSTAMP:20260101T214256Z
+CREATED:20231109T092823Z
+LAST-MODIFIED:20260101T214256Z
+DTSTART:20260702T090000Z
+DTEND:20260702T110000Z
+SUMMARY:TORCH Recurring Working Session
+DESCRIPTION:Regularly scheduled meeting to work on TORCH enhancements and TechOps projects
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
 STATUS:CONFIRMED
