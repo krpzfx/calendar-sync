@@ -7,21 +7,6 @@ X-WR-CALNAME:Outlook Calendar
 X-WR-TIMEZONE:America/Chicago
 
 BEGIN:VEVENT
-UID:040000008200E00074C5B7101A82E0080000000002978C0E90BEDB01000000000000000010000000D140A1E8FDC80A4DAD961A2A04BC4819
-DTSTAMP:20251220T163633Z
-CREATED:20250506T090626Z
-LAST-MODIFIED:20251220T163633Z
-DTSTART:20251204T140000Z
-DTEND:20251204T150000Z
-SUMMARY:TDR ML Weekly Check-In
-DESCRIPTION:Weekly meeting to discuss updates\n\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2U0N2JiNjktMzdlMy00MmNkLWFmMTktMmM5ZGFhNTdlYzZj%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 246 581 568 854 4 \nPasscode: kG34ui9z \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,676645080# <tel:+16297773558\,\,676645080#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=676645080>  \nPhone conference ID: 676 645 080# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 619 415 3 \nMore info <https://www.webex.com/msteams?confid=1136194153&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_Y2U0N2JiNjktMzdlMy00MmNkLWFmMTktMmM5ZGFhNTdlYzZj@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
-LOCATION:Microsoft Teams Meeting
-ORGANIZER:mailto:Derek Sutphin
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
 UID:040000008200E00074C5B7101A82E00800000000586893ACF15FDC010000000000000000100000000A4FE6F35CF7814BB3B5C52E01AAC520
 DTSTAMP:20251204T150636Z
 CREATED:20251127T170050Z
@@ -5409,6 +5394,21 @@ DTSTART:20260702T090000Z
 DTEND:20260702T110000Z
 SUMMARY:TORCH Recurring Working Session
 DESCRIPTION:Regularly scheduled meeting to work on TORCH enhancements and TechOps projects
+ORGANIZER:mailto:Derek Sutphin
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+PRIORITY:5
+END:VEVENT
+BEGIN:VEVENT
+UID:040000008200E00074C5B7101A82E0080000000002978C0E90BEDB01000000000000000010000000D140A1E8FDC80A4DAD961A2A04BC4819
+DTSTAMP:20251220T163633Z
+CREATED:20250506T090626Z
+LAST-MODIFIED:20251220T163633Z
+DTSTART:20260702T140000Z
+DTEND:20260702T150000Z
+SUMMARY:TDR ML Weekly Check-In
+DESCRIPTION:Weekly meeting to discuss updates\n\n________________________________________________________________________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2U0N2JiNjktMzdlMy00MmNkLWFmMTktMmM5ZGFhNTdlYzZj%40thread.v2/0?context=%7b%22Tid%22%3a%22b945c813-dce6-41f8-8457-5a12c2fe15bf%22%2c%22Oid%22%3a%222c297ecb-49a9-4b5c-9575-954d0adfced2%22%7d>  \nMeeting ID: 246 581 568 854 4 \nPasscode: kG34ui9z \n________________________________\n\nDial in by phone \n+1 629-777-3558\,\,676645080# <tel:+16297773558\,\,676645080#>  United States\, Nashville \nFind a local number <https://dialin.teams.microsoft.com/8b71d122-cda0-49d9-9e18-e44d877a63f2?id=676645080>  \nPhone conference ID: 676 645 080# \nJoin on a video conferencing device \nTenant key: gofedex@m.webex.com \nVideo ID: 113 619 415 3 \nMore info <https://www.webex.com/msteams?confid=1136194153&tenantkey=gofedex&domain=m.webex.com>  \nFor organizers: Meeting options <https://teams.microsoft.com/meetingOptions/?organizerId=2c297ecb-49a9-4b5c-9575-954d0adfced2&tenantId=b945c813-dce6-41f8-8457-5a12c2fe15bf&threadId=19_meeting_Y2U0N2JiNjktMzdlMy00MmNkLWFmMTktMmM5ZGFhNTdlYzZj@thread.v2&messageId=0&language=en-US>  | Reset dial-in PIN <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n________________________________________________________________________________
+LOCATION:Microsoft Teams Meeting
 ORGANIZER:mailto:Derek Sutphin
 TRANSP:OPAQUE
 STATUS:CONFIRMED
